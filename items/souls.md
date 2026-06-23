@@ -3,9 +3,7 @@ title: Soul Items
 description: Global dungeon soul currency and soul crafting materials.
 published: true
 date: 2026-06-22T00:00:00.000Z
-tags:
-  - items
-  - souls
+tags: items, souls
 editor: markdown
 dateCreated: 2026-06-22T00:00:00.000Z
 ---

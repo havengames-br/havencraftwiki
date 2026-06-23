@@ -3,8 +3,7 @@ title: Items
 description: Item hub for HavenCraft custom items, currencies, event drops, and crafting materials.
 published: true
 date: 2026-06-22T00:00:00.000Z
-tags:
-  - items
+tags: items
 editor: markdown
 dateCreated: 2026-06-22T00:00:00.000Z
 ---

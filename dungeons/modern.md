@@ -3,10 +3,7 @@ title: Modern Dungeons
 description: Current HavenCraft dungeon content and progression notes.
 published: true
 date: 2026-06-22T00:00:00.000Z
-tags:
-  - dungeons
-  - modern
-  - ice-pyramid
+tags: dungeons, modern, ice-pyramid
 editor: markdown
 dateCreated: 2026-06-22T00:00:00.000Z
 ---

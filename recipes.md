@@ -3,9 +3,7 @@ title: Recipes
 description: Recipe index for HavenCraft crafting, upgrades, and event material usage.
 published: true
 date: 2026-06-22T00:00:00.000Z
-tags:
-  - recipes
-  - crafting
+tags: recipes, crafting
 editor: markdown
 dateCreated: 2026-06-22T00:00:00.000Z
 ---

@@ -3,9 +3,7 @@ title: Summer Event Items
 description: Current Summer Event cooling items, rewards, and mob drops.
 published: true
 date: 2026-06-22T00:00:00.000Z
-tags:
-  - items
-  - summer-event
+tags: items, summer-event
 editor: markdown
 dateCreated: 2026-06-22T00:00:00.000Z
 ---

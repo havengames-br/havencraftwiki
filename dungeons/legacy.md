@@ -3,9 +3,7 @@ title: Legacy Dungeons
 description: Archive category for retired or older HavenCraft dungeons.
 published: true
 date: 2026-06-22T00:00:00.000Z
-tags:
-  - dungeons
-  - legacy
+tags: dungeons, legacy
 editor: markdown
 dateCreated: 2026-06-22T00:00:00.000Z
 ---

@@ -3,10 +3,7 @@ title: HavenCraft Wiki
 description: Main hub for HavenCraft guides, events, items, monsters, dungeons, abilities, and recipes.
 published: true
 date: 2026-06-22T00:00:00.000Z
-tags:
-  - home
-  - havencraft
-  - summer-event
+tags: home, havencraft, summer-event
 editor: markdown
 dateCreated: 2026-06-22T21:26:13.700Z
 ---

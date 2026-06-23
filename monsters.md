@@ -3,9 +3,7 @@ title: Monsters
 description: Monster index for HavenCraft event mobs, dungeon enemies, and bosses.
 published: true
 date: 2026-06-22T00:00:00.000Z
-tags:
-  - monsters
-  - mobs
+tags: monsters, mobs
 editor: markdown
 dateCreated: 2026-06-22T00:00:00.000Z
 ---

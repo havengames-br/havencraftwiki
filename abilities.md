@@ -3,9 +3,7 @@ title: Abilities
 description: Ability and mechanic index for HavenCraft event and dungeon systems.
 published: true
 date: 2026-06-22T00:00:00.000Z
-tags:
-  - abilities
-  - mechanics
+tags: abilities, mechanics
 editor: markdown
 dateCreated: 2026-06-22T00:00:00.000Z
 ---

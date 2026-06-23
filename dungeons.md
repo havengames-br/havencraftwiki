@@ -3,8 +3,7 @@ title: Dungeons
 description: Dungeon hub for modern and legacy HavenCraft dungeon content.
 published: true
 date: 2026-06-22T00:00:00.000Z
-tags:
-  - dungeons
+tags: dungeons
 editor: markdown
 dateCreated: 2026-06-22T00:00:00.000Z
 ---

@@ -2,7 +2,7 @@
 title: Viking Stronghold
 description: Dungeon 1 of the HavenCraft progression path. Overview, monsters, bosses, and loot.
 published: true
-date: 2026-06-29T03:38:15.463Z
+date: 2026-06-29T04:13:20.318Z
 tags: dungeon-1, dungeons, viking-stronghold
 editor: markdown
 dateCreated: 2026-06-28T16:59:29.799Z
@@ -48,16 +48,5 @@ _Boss encounters and their rewards._
 | Raider Quartermaster |
 | Asvald, The High Viking |
 
-## Loot
 
-### Materials
 
-| Texture | Item | Use |
-| --- | --- | --- |
-| _TBA_ | _TBA_ | _TBA_ |
-
-### Gear & Rewards
-
-| Texture | Gear | Role |
-| --- | --- | --- |
-| _TBA_ | _TBA_ | _TBA_ |

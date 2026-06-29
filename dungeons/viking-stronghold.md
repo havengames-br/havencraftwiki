@@ -2,7 +2,7 @@
 title: Viking Stronghold
 description: Dungeon 1 of the HavenCraft progression path. Overview, monsters, bosses, and loot.
 published: true
-date: 2026-06-29T04:13:20.318Z
+date: 2026-06-29T04:13:28.650Z
 tags: dungeon-1, dungeons, viking-stronghold
 editor: markdown
 dateCreated: 2026-06-28T16:59:29.799Z
@@ -26,7 +26,7 @@ dateCreated: 2026-06-28T16:59:29.799Z
 | Theme | Viking |
 | Bosses | 4 |
 
-_General description of the Viking Stronghold goes here — its setting, layout, difficulty, and where it sits in the progression path._
+
 
 ## Monsters
 

@@ -2,10 +2,10 @@
 title: Dungeons
 description: How HavenCraft dungeon progression works, plus the full dungeon list with release dates.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-06T19:00:03.876Z
 tags: dungeons, progression
 editor: markdown
-dateCreated: 2026-06-28T00:00:00.000Z
+dateCreated: 2026-06-28T16:59:27.729Z
 ---
 
 # Dungeons
@@ -38,7 +38,7 @@ New dungeons extend this list as they release. Release announcements happen in-g
 | Signature hazard | Frost orbs, hidden cultists | Curses, killer statues, blood rituals |
 | Bosses | 4 | 2 |
 | Boss soul drop | Warrior Soul + Frozen Soul | Warrior Soul + Sanguine Soul |
-| Related pages | [Loot](/items/viking-stronghold) · [Mobs](/monsters#viking-stronghold) | [Loot](/items/castle-nocturn) · [Mobs](/monsters#castle-nocturn) |
+
 
 ## Related
 

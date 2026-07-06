@@ -2,13 +2,13 @@
 title: Haven Craft Wiki
 description: 
 published: true
-date: 2026-07-06T18:57:10.476Z
+date: 2026-07-06T19:06:17.075Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-29T03:25:38.034Z
 ---
 
-# HavenCraft Wiki
+
 ![castlenocturn.png](/castlenocturn.png)
 ___
 Welcome to HavenCraft — a **dungeon progression server**. The path forward runs through our custom dungeons: each one you clear gears you up for the next, and each new dungeon release raises the ceiling with new monsters, loot, materials, and enchants.

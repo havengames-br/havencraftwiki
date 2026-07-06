@@ -1,8 +1,8 @@
 ---
-title: Haven Craft Wiki
+title: HavenCraft Wiki
 description: 
 published: true
-date: 2026-07-06T19:06:17.075Z
+date: 2026-07-06T19:07:39.290Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-29T03:25:38.034Z

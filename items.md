@@ -2,7 +2,7 @@
 title: Items
 description: Hub for all custom HavenCraft items — souls, keys, dungeon loot, potions, and gear.
 published: true
-date: 2026-07-06T18:50:39.903Z
+date: 2026-07-06T18:52:06.055Z
 tags: items
 editor: markdown
 dateCreated: 2026-07-06T15:58:27.712Z
@@ -31,8 +31,8 @@ Custom enchanted tomes drop in dungeons and level with the progression:
 | I | Frostbound Tomes (Protection, Sharpness, Power, Efficiency, Unbreaking, Feather Falling) | [Viking Stronghold](/items/viking-stronghold#frostbound-tomes) |
 | II | Nocturn Tomes (same lines at II, plus Looting I) | [Castle Nocturn](/items/castle-nocturn#nocturn-tomes) |
 | Special | Beheading I–V books | Castle Nocturn (Beheading I) |
+| Custom | [Custom Enchants](/enchants) | Enchanting Table |
 
-For the fully custom enchant families — Lifedrain, Emberstrike, Shockwave, and friends — see [Custom Enchants](/enchants).
 
 
 ## Repair Kits

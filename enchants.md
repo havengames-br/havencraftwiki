@@ -2,7 +2,7 @@
 title: Custom Enchants
 description: The five custom enchant families of HavenCraft — every enchant, level, and number.
 published: true
-date: 2026-07-06T16:11:15.515Z
+date: 2026-07-06T16:59:04.269Z
 tags: enchantments, enchants
 editor: markdown
 dateCreated: 2026-07-06T15:58:22.519Z
@@ -30,85 +30,51 @@ HavenCraft's custom enchants are forged from the abilities of the server's own m
 
 *The power of Odin, from the [Viking Stronghold](/dungeons/viking-stronghold).*
 
-### Emberstrike — Melee weapons · Lv 1–4
-Sears the target with cinder-fire and sets them ablaze.
-**Fire damage:** I 1.5 · II 3 · III 4.5 · IV 6 | **Burn:** I 1.5s → IV 6s
+| Enchantment | Applies To | Level I | Level II | Level III | Level IV |
+|-------------|------------|----------|-----------|------------|-----------|
+| **Emberstrike** | Melee Weapons | **1.5** fire damage, **1.5s** burn | **3** fire damage, **3s** burn | **4.5** fire damage, **4.5s** burn | **6** fire damage, **6s** burn |
+| **Frostbite** | Melee Weapons | **30%** chance, **1.5** frost damage, **Slowness II (2.25s)** | **30%** chance, **3** frost damage, **Slowness II (3s)** | **30%** chance, **4.5** frost damage, **Slowness II (3.75s)** | **30%** chance, **6** frost damage, **Slowness II (4.5s)** |
+| **Stormstrike** | Melee Weapons | **15%** chance to summon lightning (~5 damage) + **2** bonus damage (3s cooldown) | **15%** chance to summon lightning (~5 damage) + **4** bonus damage (3s cooldown) | **15%** chance to summon lightning (~5 damage) + **6** bonus damage (3s cooldown) | — |
 
-### Frostbite — Melee weapons · Lv 1–4
-30% chance on hit to freeze foes: frost damage + Slowness II.
-**Frost damage:** I 1.5 → IV 6 | **Slow:** I 2.25s → IV 4.5s
-
-### Stormstrike — Melee weapons · Lv 1–3
-15% chance on hit to call lightning on your foe (3s cooldown).
-**Bolt (~5 damage) + bonus:** I 2 · II 4 · III 6
+---
 
 ## Warrior's Wrath — Heavy Melee
 
 *From the deep Wilds.*
 
-### Shockwave — Melee weapons · Lv 1–3
-20% chance on hit to slam the ground (4-block radius), damaging + flinging foes back (2s cooldown).
-**AoE damage:** I 2 · II 4 · III 6
+| Enchantment | Applies To | Level I | Level II | Level III |
+|-------------|------------|----------|-----------|------------|
+| **Shockwave** | Melee Weapons | **20%** chance to create a **4-block** shockwave dealing **2** AoE damage and knockback (2s cooldown) | **20%** chance to create a **4-block** shockwave dealing **4** AoE damage and knockback (2s cooldown) | **20%** chance to create a **4-block** shockwave dealing **6** AoE damage and knockback (2s cooldown) |
+| **Cleave** | Melee Weapons | Hits enemies in a **120° arc** for **1.5** damage | Hits enemies in a **120° arc** for **3** damage | Hits enemies in a **120° arc** for **4.5** damage |
+| **Shieldbreaker** | Melee Weapons | Disables shields for **1.5s** | Disables shields for **3s** | Disables shields for **4.5s** |
+| **Crushing Blow** | Melee Weapons | **25%** chance to launch target upward (2s cooldown) — **Low** launch | **25%** chance to launch target upward (2s cooldown) — **Medium** launch | **25%** chance to launch target upward (2s cooldown) — **High** launch |
 
-### Cleave — Melee weapons · Lv 1–3
-Every swing carries into all foes in a 120° arc around your target.
-**Cleave damage:** I 1.5 · II 3 · III 4.5
-
-### Shieldbreaker — Melee weapons · Lv 1–3
-Smashes through and disables a blocking target's shield.
-**Shield disabled:** I 1.5s · II 3s · III 4.5s
-
-### Crushing Blow — Melee weapons · Lv 1–3
-25% chance on hit to hurl your target skyward (2s cooldown).
-**Launch power rises each level:** I → III
+---
 
 ## Hunter's Volley — Bows
 
 *For stealth-archer Skyrim gamers.*
 
-### Emberdrinker — Bows · Lv 1–3
-The Soulflame Bow's gift: arrows ignite foes and drink back life for you.
-**Fire damage:** I 2 · II 4 · III 6 | **Burn:** I 1.5s → III 4.5s | **Lifesteal:** I 1 · II 2 · III 3 HP
+| Enchantment | Applies To | Level I | Level II | Level III |
+|-------------|------------|----------|-----------|------------|
+| **Emberdrinker** | Bows | **2** fire damage, **1.5s** burn, heal **1 HP** | **4** fire damage, **3s** burn, heal **2 HP** | **6** fire damage, **4.5s** burn, heal **3 HP** |
+| **Venomtip** | Bows | **Poison 2s**, **Slowness 1s** | **Poison 4s**, **Slowness 2s** | **Poison 6s**, **Slowness 3s** |
+| **Snare Shot** | Bows | **40%** chance to snare target, **Slowness III (3s)** | **40%** chance to snare target, **Slowness III (4s)** |
 
-### Venomtip — Bows · Lv 1–3
-Coats arrows in venom — Poison + a brief Slowness.
-**Poison:** I 2s · II 4s · III 6s | **Slow:** I 1s · II 2s · III 3s
-
-### Snare Shot — Bows · Lv 1–2
-40% chance for arrows to snare foes in webbing (Slowness III).
-**Web duration:** I 3s · II 4s
+---
 
 ## Sentinel's Ward — Defensive Armor
 
 *Because the curses are working as intended.*
 
-### Bulwark — Leggings · Lv 1
-Plant your feet — incoming attacks no longer knock you back.
-**Negates knockback** (no level scaling)
-
-### Emberguard — Chestplate · Lv 1–3
-35% chance when hit to scorch your attacker with a fire pulse (2s cooldown).
-**Retaliate damage:** I 1.5 · II 3 · III 4.5 | **Burn:** I 1s → III 3s
-
-### Last Stand — Chestplate · Lv 1–2
-Below 35% HP, being hit fills you with rage — Strength + Resistance for 5s (25s cooldown).
-**Potency:** I Strength I + Resistance I · II Strength II + Resistance II
-
-### Second Wind — Helmet · Lv 1–3
-A hidden flask — taking a hit below 30% HP heals you (40s cooldown).
-**Heal:** I 3 HP · II 6 HP · III 9 HP
-
-### Frost Ward — Boots · Lv 1–3
-35% chance when hit to freeze nearby attackers (4-block radius, Slowness II).
-**Slow duration:** I 2.25s · II 3s · III 3.75s
-
-### Cleansing — Chestplate · Lv 1–3
-Holy warding woven into your armor — a chance when struck to burn away a curse afflicting you.
-**Purge chance per hit:** I 15% · II 30% · III 45%
-
-## Vanilla Enchant Books
-
-Dungeons also drop vanilla enchants as tomes — [Frostbound Tomes](/items/viking-stronghold#frostbound-tomes) (Tier I) in the Viking Stronghold, [Nocturn Tomes](/items/castle-nocturn#nocturn-tomes) (Tier II, plus Looting I) and **Beheading I–V** books in Castle Nocturn.
+| Enchantment | Applies To | Level I | Level II | Level III |
+|-------------|------------|----------|-----------|------------|
+| **Emberguard** | Chestplate | **35%** chance when hit to deal **1.5** fire damage and **1s** burn (2s cooldown) | **35%** chance when hit to deal **3** fire damage and **2s** burn (2s cooldown) | **35%** chance when hit to deal **4.5** fire damage and **3s** burn (2s cooldown) |
+| **Second Wind** | Helmet | Heal **3 HP** when hit below **30% HP** (40s cooldown) | Heal **6 HP** when hit below **30% HP** (40s cooldown) | Heal **9 HP** when hit below **30% HP** (40s cooldown) |
+| **Frost Ward** | Boots | **35%** chance to freeze nearby attackers (**4-block radius**) with **Slowness II (2.25s)** | **35%** chance to freeze nearby attackers (**4-block radius**) with **Slowness II (3s)** | **35%** chance to freeze nearby attackers (**4-block radius**) with **Slowness II (3.75s)** |
+| **Cleansing** | Chestplate | **15%** chance when hit to remove one curse | **30%** chance when hit to remove one curse | **45%** chance when hit to remove one curse |
+| **Last Stand** | Chestplate | Below **35% HP**, gain **Strength I + Resistance I** for **5s** (25s cooldown) | Below **35% HP**, gain **Strength II + Resistance II** for **5s** (25s cooldown) |
+| **Bulwark** | Leggings | Completely negates knockback from incoming attacks. |
 
 ## Related
 

@@ -1,27 +1,22 @@
 ---
 title: Viking Stronghold
-description: Dungeon 1 — the starter dungeon. Full guide to its monsters, bosses, mechanics, and loot.
+description: Dungeon 1 of the HavenCraft progression path. Overview, monsters, bosses, and loot.
 published: true
-<<<<<<< HEAD
-date: 2026-07-05T00:00:00.000Z
-tags: dungeons, viking-stronghold, dungeon-1
-=======
-date: 2026-06-29T04:13:28.650Z
+date: 2026-07-06T19:45:54.766Z
 tags: dungeon-1, dungeons, viking-stronghold
->>>>>>> 1dd77e98a0eed85bace1e1a1fdf5b657ba2e3d72
 editor: markdown
 dateCreated: 2026-06-28T16:59:29.799Z
 ---
 
-# Viking Stronghold
 
+# Viking Stronghold
+![vikingstronghold.png](/vikingstronghold.png)
 > **Dungeon 1** · Released June 2026 · Starter difficulty
 
-<<<<<<< HEAD
 The Viking Stronghold is HavenCraft's first dungeon and the start of the progression path. It is built for fresh players who arrive with nothing: the frozen halls are packed with viking raiders whose drops focus on armor, weapons, bows, arrows, lapis, and low-level enchant tomes — everything you need to walk out stronger than you walked in.
 
 Deeper inside, the Order of Odin holds its rituals, and four bosses stand between you and the stronghold's greatest treasures.
-=======
+
 
 
 
@@ -37,13 +32,8 @@ Deeper inside, the Order of Odin holds its rituals, and four bosses stand betwee
 | Bosses | 4 |
 
 
->>>>>>> 1dd77e98a0eed85bace1e1a1fdf5b657ba2e3d72
-
 ## Monsters
 
-Regular enemies you'll fight throughout the stronghold. Click any name for full stats, abilities, and drops.
-
-<<<<<<< HEAD
 | Monster | Threat | Notes |
 | --- | --- | --- |
 | [Viking Warrior](/monsters/viking-stronghold/viking-warrior) | Low | Axe-swinging melee line trooper. Can throw axes and call wolves. |
@@ -65,15 +55,6 @@ Regular enemies you'll fight throughout the stronghold. Click any name for full 
 | [High Priestess of Odin](/monsters/viking-stronghold/high-priestess-of-odin) | 300 | Stormcaller's Scepter, Mitre of the Faithful, Heart of the Allfather |
 | [Asvald, The High Viking](/monsters/viking-stronghold/asvald) | 750 | Frozen Crown Shards, Blank Key |
 
-Every boss kill guarantees a loot bundle (metals, food, lapis, tomes, gear) plus a [Warrior Soul](/items/souls), a 50% chance at a [Frozen Soul](/items/souls), and a strong chance at a [Blank Key](/items/keys).
-
-## Mechanics & Points of Interest
-
-- **Hidden cultists.** Some "villagers" are Order of Odin cultists in disguise. Attacking one transforms it into a fight.
-- **Frost Orbs.** These wards are immune to melee — only projectiles and fire hurt them, and normal arrows are cancelled unless the orb is burning. Bring fire arrows or fire magic.
-- **Loot chests.** Supply chests spawn through the dungeon, marked by snowflake particles. Rarer **Frozen Raven Caches** and golden-glowing **Ancient Raven Caches** hold much better loot — the Ancient cache guarantees diamonds, emeralds, metals, and can hold netherite scrap or even the Shaman Wolf Hex Staff.
-- **The mist.** Mist blocks obscure parts of the dungeon. Watch your footing.
-
 ## Loot Overview
 
 Full item details live on the [Viking Stronghold loot page](/items/viking-stronghold).
@@ -82,30 +63,8 @@ Full item details live on the [Viking Stronghold loot page](/items/viking-strong
 - **Frostbound Tomes:** Tier-I enchant books (Protection, Sharpness, Power, Efficiency, Unbreaking, Feather Falling).
 - **Relic weapons:** Shaman Wolf Hex Staff, Raven Skull Staff, Frost Fang Dagger, Soulflame Bow, Stormcaller's Scepter, Viking Warhammer.
 - **Consumables:** Viking Ale, Elixir of Odin, Heart of the Allfather, Momentum Powder, Wolf Meat.
-- **Progression items:** [Soul Fragments and souls](/items/souls), [Blank Keys and the ultra-rare Viking Key](/items/keys), and **Frozen Crown Shards** from Asvald — the blacksmith might know what to do with those.
+- **Souls:** [Soul Fragments and souls](/items/souls),
 
-## Related
-
-- [Dungeons hub](/dungeons)
-- [Castle Nocturn](/dungeons/castle-nocturn) — the next dungeon
-- [Monsters index](/monsters)
-=======
-| Monster | Type |
-| --- | --- | --- |
-| Viking Warrior | Melee  | 
-| Viking Shaman | Caster  | 
-
-## Bosses
-
-_Boss encounters and their rewards._
-
-| Boss |
-| --- | --- | --- | --- |
-| High Priestess of Odin | 
-| Cindius, Flame of Valhalla | 
-| Raider Quartermaster |
-| Asvald, The High Viking |
+- **Progression Item:** Frozen Crown Shard used to craft the Squire upgrade item **Frozen Crown**.
 
 
-
->>>>>>> 1dd77e98a0eed85bace1e1a1fdf5b657ba2e3d72

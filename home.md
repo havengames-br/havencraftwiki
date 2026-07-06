@@ -2,7 +2,7 @@
 title: Haven Craft Wiki
 description: 
 published: true
-date: 2026-07-06T17:13:48.366Z
+date: 2026-07-06T17:18:02.947Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-29T03:25:38.034Z
@@ -31,27 +31,9 @@ This wiki is the player-facing guide to everything custom on the server.
 
 1. **Gear up in the [Viking Stronghold](/dungeons/viking-stronghold)** — Dungeon 1 is built for fresh players who arrive with nothing. It showers you with starter armor, weapons, enchant tomes, and lapis.
 2. **Collect [Souls](/items/souls)** — every dungeon mob drops soul currency. Save it.
-3. **Hunt the bosses** — each boss guarantees a loot bundle and has signature relic drops you can't get anywhere else.
-4. **Move up to [Castle Nocturn](/dungeons/castle-nocturn)** — the vampire dungeon expects diamond-tier gear and fights back with curses.
-5. **Enchant your gear** — dungeon tomes and the [custom enchants](/enchants) turn boss abilities into your abilities.
+3. **Enchant your gear** — dungeon tomes and the [custom enchants](/enchants) turn boss abilities into your abilities.
+4. **Hunt the bosses** — each boss guarantees a loot bundle and has signature relic drops you can't get anywhere else.
+5. Rank up — Final bosses hold the key to ranking up to the next level unlocking more dungeon content and additional towny worlds and perks.
+6. Establish your Empire — After aquiring squire rank, land in the towny world is claimable and you can start a town.
 
-## The Dungeons So Far
 
-| # | Dungeon | Theme | Difficulty |
-| --- | --- | --- | --- |
-| 1 | [Viking Stronghold](/dungeons/viking-stronghold) | Frozen viking raiders and the Order of Odin | Starter |
-| 2 | [Castle Nocturn](/dungeons/castle-nocturn) | Vampires, curses, and the Crimson Veil | Diamond gear |
-
-More dungeons are on the way — new releases are announced in-game.
-=======
-title: Haven Craft Wiki
-description: 
-published: true
-date: 2026-06-29T03:25:38.034Z
-tags: 
-editor: markdown
-dateCreated: 2026-06-29T03:25:38.034Z
----
-
-Welcome
->>>>>>> 1dd77e98a0eed85bace1e1a1fdf5b657ba2e3d72

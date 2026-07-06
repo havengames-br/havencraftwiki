@@ -2,10 +2,10 @@
 title: Custom Enchants
 description: The five custom enchant families of HavenCraft — every enchant, level, and number.
 published: true
-date: 2026-07-05T00:00:00.000Z
-tags: enchants, enchantments
+date: 2026-07-06T16:11:15.515Z
+tags: enchantments, enchants
 editor: markdown
-dateCreated: 2026-07-05T00:00:00.000Z
+dateCreated: 2026-07-06T15:58:22.519Z
 ---
 
 # Custom Enchants
@@ -18,25 +18,13 @@ HavenCraft's custom enchants are forged from the abilities of the server's own m
 
 *From the horrors of [Castle Nocturn](/dungeons/castle-nocturn).*
 
-### Lifedrain — Melee weapons · Lv 1–3
-Your strikes siphon life back to you on every hit.
-**Heal per hit:** I 2 HP · II 3 HP · III 4 HP
-
-### Crimson Bolt — Bows · Lv 1–3
-Arrows carry the Blood Acolyte's hex: bonus damage + Weakness.
-**Bonus damage:** I 2 · II 4 · III 6 | **Weakness:** I 2s · II 4s · III 6s
-
-### Grave Grasp — Melee weapons · Lv 1–3
-20% chance on hit to root your target in place (6s cooldown).
-**Root duration:** I 2s · II 3s · III 4s
-
-### Crimson Nova — Melee weapons · Lv 1–3
-Killing blows erupt in a blood nova (4-block radius), healing you.
-**AoE damage:** I 3 · II 6 · III 9 | **Self-heal:** I 2 · II 4 · III 6 HP
-
-### Shadow Veil — Chestplate · Lv 1–2
-Dropping below 30% HP cloaks you in Invisibility + Speed II to escape (30s cooldown).
-**Duration:** I 3s · II 4s
+| Enchantment | Applies To | Level I | Level II | Level III |
+|-------------|------------|----------|-----------|------------|
+| **Lifedrain** | Melee Weapons | Heal **2 HP** per hit | Heal **3 HP** per hit | Heal **4 HP** per hit |
+| **Crimson Bolt** | Bows | **+2** damage, **Weakness 2s** | **+4** damage, **Weakness 4s** | **+6** damage, **Weakness 6s** |
+| **Grave Grasp** | Melee Weapons | **20%** chance to root for **2s** (6s cooldown) | **20%** chance to root for **3s** (6s cooldown) | **20%** chance to root for **4s** (6s cooldown) |
+| **Crimson Nova** | Melee Weapons | Killing blow creates a **4-block blood nova**, deals **3** AoE damage, heals **2 HP** | Killing blow creates a **4-block blood nova**, deals **6** AoE damage, heals **4 HP** | Killing blow creates a **4-block blood nova**, deals **9** AoE damage, heals **6 HP** |
+| **Shadow Veil** | Chestplate | Below **30% HP** grants **Invisibility + Speed II** for **3s** (30s cooldown) | Below **30% HP** grants **Invisibility + Speed II** for **4s** (30s cooldown) |
 
 ## Elemental Edge — Fire / Ice / Storm
 

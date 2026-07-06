@@ -2,7 +2,7 @@
 title: Haven Craft Wiki
 description: 
 published: true
-date: 2026-07-06T17:20:46.401Z
+date: 2026-07-06T18:57:10.476Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-29T03:25:38.034Z
@@ -32,7 +32,7 @@ This wiki is the player-facing guide to everything custom on the server.
 2. **Collect [Souls](/items/souls)** — every dungeon mob drops soul currency. Save it.
 3. **Enchant your gear** — dungeon tomes and the [custom enchants](/enchants) turn boss abilities into your abilities.
 4. **Hunt the bosses** — each boss guarantees a loot bundle and has signature relic drops you can't get anywhere else.
-5. Rank up — Final bosses hold the key to ranking up to the next level unlocking more dungeon content and additional towny worlds and perks.
-6. Establish your Empire — After aquiring squire rank, land in the towny world is claimable and you can start a town.
+5. **Rank up** — Final bosses hold the key to ranking up to the next level unlocking more dungeon content and additional towny worlds and perks.
+6. **Establish your Empire** — After aquiring squire rank, land in the towny world is claimable and you can start a town.
 
 

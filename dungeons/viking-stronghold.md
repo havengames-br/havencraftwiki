@@ -2,7 +2,7 @@
 title: Viking Stronghold
 description: Dungeon 1 of the HavenCraft progression path. Overview, monsters, bosses, and loot.
 published: true
-date: 2026-07-06T19:47:29.850Z
+date: 2026-07-06T19:48:09.948Z
 tags: dungeon-1, dungeons, viking-stronghold
 editor: markdown
 dateCreated: 2026-06-28T16:59:29.799Z
@@ -28,7 +28,6 @@ Deeper inside, the Order of Odin holds its rituals, and four bosses stand betwee
 | --- | --- |
 | Requirements | None |
 | Difficulty | Easy |
-| Release Date | 06/26/26 |
 | Theme | Viking |
 | Bosses | 4 |
 

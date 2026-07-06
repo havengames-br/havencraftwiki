@@ -2,7 +2,7 @@
 title: Items
 description: Hub for all custom HavenCraft items — souls, keys, dungeon loot, potions, and gear.
 published: true
-date: 2026-07-06T18:52:06.055Z
+date: 2026-07-06T18:53:33.392Z
 tags: items
 editor: markdown
 dateCreated: 2026-07-06T15:58:27.712Z
@@ -26,12 +26,12 @@ Every custom item on HavenCraft, grouped by category. Dungeon-specific loot live
 
 Custom enchanted tomes drop in dungeons and level with the progression:
 
-| Tier | Book Line | Source |
+| Tier | Example | Source |
 | --- | --- | --- |
 | I | Frostbound Tomes (Protection, Sharpness, Power, Efficiency, Unbreaking, Feather Falling) | [Viking Stronghold](/items/viking-stronghold#frostbound-tomes) |
 | II | Nocturn Tomes (same lines at II, plus Looting I) | [Castle Nocturn](/items/castle-nocturn#nocturn-tomes) |
 | Special | Beheading I–V books | Castle Nocturn (Beheading I) |
-| Custom | [Custom Enchants](/enchants) | Enchanting Table |
+| Custom | Blood Hunter, Elemental Edge, Warrior's Wrath, Hunters Volley, Sentinel's Ward. For full List visit [Custom Enchants](/enchants) | Enchanting Table |
 
 
 

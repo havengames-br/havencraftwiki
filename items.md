@@ -2,10 +2,10 @@
 title: Items
 description: Hub for all custom HavenCraft items — souls, keys, dungeon loot, potions, and gear.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-06T18:50:39.903Z
 tags: items
 editor: markdown
-dateCreated: 2026-06-22T00:00:00.000Z
+dateCreated: 2026-07-06T15:58:27.712Z
 ---
 
 # Items
@@ -34,9 +34,6 @@ Custom enchanted tomes drop in dungeons and level with the progression:
 
 For the fully custom enchant families — Lifedrain, Emberstrike, Shockwave, and friends — see [Custom Enchants](/enchants).
 
-## Gear Gems
-
-Some gear comes with a **gem socket** (shown in the item's lore). Drag a gem onto socketable gear to open the socket screen — the gem item is consumed on socketing. Removing a gem with an unsocket tool destroys the gem. Check each gem's lore to see which gear slots it supports.
 
 ## Repair Kits
 

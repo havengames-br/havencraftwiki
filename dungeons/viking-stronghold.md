@@ -2,7 +2,7 @@
 title: Viking Stronghold
 description: Dungeon 1 of the HavenCraft progression path. Overview, monsters, bosses, and loot.
 published: true
-date: 2026-07-06T19:45:54.766Z
+date: 2026-07-06T19:46:02.766Z
 tags: dungeon-1, dungeons, viking-stronghold
 editor: markdown
 dateCreated: 2026-06-28T16:59:29.799Z
@@ -11,7 +11,7 @@ dateCreated: 2026-06-28T16:59:29.799Z
 
 # Viking Stronghold
 ![vikingstronghold.png](/vikingstronghold.png)
-> **Dungeon 1** · Released June 2026 · Starter difficulty
+> **Dungeon 1** · Released June 2026 · Easy difficulty
 
 The Viking Stronghold is HavenCraft's first dungeon and the start of the progression path. It is built for fresh players who arrive with nothing: the frozen halls are packed with viking raiders whose drops focus on armor, weapons, bows, arrows, lapis, and low-level enchant tomes — everything you need to walk out stronger than you walked in.
 

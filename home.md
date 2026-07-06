@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: HavenCraft Wiki
 description: Player guide to HavenCraft — dungeon progression, custom mobs, items, souls, enchants, and NPCs.
 published: true
@@ -41,3 +42,15 @@ This wiki is the player-facing guide to everything custom on the server.
 | 2 | [Castle Nocturn](/dungeons/castle-nocturn) | Vampires, curses, and the Crimson Veil | Diamond gear |
 
 More dungeons are on the way — new releases are announced in-game.
+=======
+title: Haven Craft Wiki
+description: 
+published: true
+date: 2026-06-29T03:25:38.034Z
+tags: 
+editor: markdown
+dateCreated: 2026-06-29T03:25:38.034Z
+---
+
+Welcome
+>>>>>>> 1dd77e98a0eed85bace1e1a1fdf5b657ba2e3d72

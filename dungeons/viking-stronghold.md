@@ -2,24 +2,48 @@
 title: Viking Stronghold
 description: Dungeon 1 — the starter dungeon. Full guide to its monsters, bosses, mechanics, and loot.
 published: true
+<<<<<<< HEAD
 date: 2026-07-05T00:00:00.000Z
 tags: dungeons, viking-stronghold, dungeon-1
+=======
+date: 2026-06-29T04:13:28.650Z
+tags: dungeon-1, dungeons, viking-stronghold
+>>>>>>> 1dd77e98a0eed85bace1e1a1fdf5b657ba2e3d72
 editor: markdown
-dateCreated: 2026-06-28T00:00:00.000Z
+dateCreated: 2026-06-28T16:59:29.799Z
 ---
 
 # Viking Stronghold
 
 > **Dungeon 1** · Released June 2026 · Starter difficulty
 
+<<<<<<< HEAD
 The Viking Stronghold is HavenCraft's first dungeon and the start of the progression path. It is built for fresh players who arrive with nothing: the frozen halls are packed with viking raiders whose drops focus on armor, weapons, bows, arrows, lapis, and low-level enchant tomes — everything you need to walk out stronger than you walked in.
 
 Deeper inside, the Order of Odin holds its rituals, and four bosses stand between you and the stronghold's greatest treasures.
+=======
+
+
+
+
+## Overview
+
+| Area | Details |
+| --- | --- |
+| Requirements | None |
+| Difficulty | Easy |
+| Release Date | 06/26/26 |
+| Theme | Viking |
+| Bosses | 4 |
+
+
+>>>>>>> 1dd77e98a0eed85bace1e1a1fdf5b657ba2e3d72
 
 ## Monsters
 
 Regular enemies you'll fight throughout the stronghold. Click any name for full stats, abilities, and drops.
 
+<<<<<<< HEAD
 | Monster | Threat | Notes |
 | --- | --- | --- |
 | [Viking Warrior](/monsters/viking-stronghold/viking-warrior) | Low | Axe-swinging melee line trooper. Can throw axes and call wolves. |
@@ -65,3 +89,23 @@ Full item details live on the [Viking Stronghold loot page](/items/viking-strong
 - [Dungeons hub](/dungeons)
 - [Castle Nocturn](/dungeons/castle-nocturn) — the next dungeon
 - [Monsters index](/monsters)
+=======
+| Monster | Type |
+| --- | --- | --- |
+| Viking Warrior | Melee  | 
+| Viking Shaman | Caster  | 
+
+## Bosses
+
+_Boss encounters and their rewards._
+
+| Boss |
+| --- | --- | --- | --- |
+| High Priestess of Odin | 
+| Cindius, Flame of Valhalla | 
+| Raider Quartermaster |
+| Asvald, The High Viking |
+
+
+
+>>>>>>> 1dd77e98a0eed85bace1e1a1fdf5b657ba2e3d72

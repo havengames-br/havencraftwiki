@@ -1,15 +1,19 @@
 ---
-<<<<<<< HEAD
-title: HavenCraft Wiki
-description: Player guide to HavenCraft — dungeon progression, custom mobs, items, souls, enchants, and NPCs.
+title: Haven Craft Wiki
+description: 
 published: true
-date: 2026-07-05T00:00:00.000Z
-tags: home, havencraft
+date: 2026-07-06T16:01:37.902Z
+tags: 
 editor: markdown
-dateCreated: 2026-07-05T00:00:00.000Z
+dateCreated: 2026-06-29T03:25:38.034Z
 ---
 
 # HavenCraft Wiki
+---
+![castlenocturn.png](/castlenocturn.png)
+---
+
+
 
 Welcome to HavenCraft — a **dungeon progression server**. The path forward runs through our custom dungeons: each one you clear gears you up for the next, and each new dungeon release raises the ceiling with new monsters, loot, materials, and enchants.
 

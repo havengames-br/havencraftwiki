@@ -2,7 +2,7 @@
 title: Haven Craft Wiki
 description: 
 published: true
-date: 2026-07-06T16:01:37.902Z
+date: 2026-07-06T17:13:11.621Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-29T03:25:38.034Z
@@ -28,7 +28,7 @@ This wiki is the player-facing guide to everything custom on the server.
 | [Items](/items) | Souls, keys, relic weapons, materials, potions, and armor sets. |
 | [Custom Enchants](/enchants) | The five custom enchant families and every enchant's numbers. |
 | [Traders & NPCs](/traders) | Friendly faces: NPCs, selling loot, and services. |
-| [Events](/events) | Seasonal and rotating server events. |
+
 
 ## New Player Path
 

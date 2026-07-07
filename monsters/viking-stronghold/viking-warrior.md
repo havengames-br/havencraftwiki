@@ -2,14 +2,15 @@
 title: Viking Warrior
 description: The Viking Stronghold's standard melee trooper — stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-07T01:34:35.350Z
 tags: monsters, viking-stronghold
 editor: markdown
-dateCreated: 2026-07-05T00:00:00.000Z
+dateCreated: 2026-07-06T15:59:15.312Z
 ---
 
 # Viking Warrior
 
+![viking_warrior.png](/viking_warrior.png)
 The backbone of the stronghold's garrison. A dual-axe raider in chainmail and leather who closes fast and swings faster.
 
 **Found in:** [Viking Stronghold](/dungeons/viking-stronghold)

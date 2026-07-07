@@ -2,10 +2,10 @@
 title: Castle Nocturn Loot
 description: Every custom item from Dungeon 2 — Sanguine gear, Bloodfruit, Nocturn Tomes, and vampire relics.
 published: true
-date: 2026-07-05T00:00:00.000Z
-tags: items, castle-nocturn, dungeon-2
+date: 2026-07-07T02:36:26.302Z
+tags: castle-nocturn, dungeon-2, items
 editor: markdown
-dateCreated: 2026-07-05T00:00:00.000Z
+dateCreated: 2026-07-06T15:58:29.211Z
 ---
 
 # Castle Nocturn Loot
@@ -35,10 +35,9 @@ The castle's vampires carry the materials for blood-forged gear.
 
 | Pieces Worn | Bonus |
 | --- | --- |
-| 3 pieces | +5 total hearts |
-| Full set | +2 extra hearts on top |
+| Full set | +2 extra hearts |
 
-The chestplate also carries a **gem socket** — see [Gear Gems](/items#gear-gems).
+
 
 ## Bloodfruit
 
@@ -52,9 +51,12 @@ The chestplate also carries a **gem socket** — see [Gear Gems](/items#gear-gem
 | | Item | What It Does | Source |
 | --- | --- | --- | --- |
 | <img src="/assets/items/weapons/final_oath.png" alt="" width="32"> | **The Final Oath** | Right-click **Broken Oath**: summons a spectral blade at the block you're looking at — 15 damage to mobs within 2 blocks. 30s cooldown. | 2% from the [Oathbreaker](/monsters/castle-nocturn/oathbreaker) |
-| <img src="/assets/items/weapons/holy_hand_grenade.png" alt="" width="32"> | **Holy Hand Grenade** | Right-click: throws a holy grenade. After 3 seconds it explodes — 10 damage to mobs, 10 healing to players, and removes curses. 10-block range. | Blessed relic — crafted/special reward |
-| | **Vampyric Repair Kit** | Drag onto damaged items to restore 50 durability. | 1–2 guaranteed from [Vraelith](/monsters/castle-nocturn/vraelith) |
 
+## Repair Kits
+
+| | Item | What It Does | Source |
+| --- | --- | --- | --- |
+| | **Vampyric Repair Kit** | Drag onto damaged items to restore 50 durability. | 1–2 guaranteed from [Vraelith](/monsters/castle-nocturn/vraelith) |
 ## Nocturn Tomes
 
 Tier-II enchant books. ~5–6% from regular mobs, guaranteed from bosses (plus a 50% second roll).

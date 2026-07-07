@@ -2,7 +2,7 @@
 title: Traders & NPCs
 description: Every NPC trader in the HavenCraft hub — what they sell, and what they want in return.
 published: true
-date: 2026-07-07T02:24:17.370Z
+date: 2026-07-07T02:26:33.535Z
 tags: npcs, traders
 editor: markdown
 dateCreated: 2026-07-06T15:59:16.759Z
@@ -57,7 +57,7 @@ Cuts keys. Matches the "ready to be cut" lore on the [Blank Key](/items/keys).
 | 1 Blank Key + 1 Frozen Soul | [Frozen Key](/items/keys) |
 | 1 Viking Key + 1 Lost Soul | Blank Key |
 
-## Alchemist
+## Master Miner
 
 Refines vampire materials into Sanguine metal.
 
@@ -67,7 +67,7 @@ Refines vampire materials into Sanguine metal.
 | 1 Sanguine Soul + 10 Sanguine Ore | **Sanguine Ingot Recipe** — teaches the Sanguine Ingot smithing recipe |
 | Lost Souls | Iron or Diamond Pickaxe |
 
-## Potion Master
+## Master Alchemist
 
 | Give | Get |
 | --- | --- |
@@ -77,22 +77,26 @@ Refines vampire materials into Sanguine metal.
 | 1 Frozen Soul + 1 Lost Soul | [Potion of Momentum](/items/potions) |
 | 5 Frozen Souls + 10 Momentum Powder | **Momentum Potion Recipe** — teaches the Potion of Momentum recipe |
 
-## Enchanter
+## Master Enchanter
 
 | Give | Get |
 | --- | --- |
 | 3 Frozen Souls | Beheading I enchanted book |
 
-## Bounty Board
+## Head Hunter
 
-Buys the trophy heads Beheading drops, and turns a stack of them into a spawner.
 
 | Give | Get |
 | --- | --- |
-| 1 mob head | 2 Lost Souls |
-| 10 Viking Warrior heads + 5 Warrior Souls | Viking Warrior Spawner |
+| 1 Viking Warrior Head | 2 Lost Souls |
+| 1 Viking Shaman Head | 2 Lost Souls |
 
-## Tinkerer
+
+## Spawner Merchant
+| Give | Get |
+| --- | --- |
+| 10 Viking Warrior heads + 5 Warrior Souls | Viking Warrior Spawner |
+## Master Engineer
 
 | Give | Get |
 | --- | --- |
@@ -101,7 +105,7 @@ Buys the trophy heads Beheading drops, and turns a stack of them into a spawner.
 | 1 Lost Soul + 16 Arrows | 16 Torchhead Arrows |
 | 5 Warrior Souls + a Bundle | Small Auto Salvager |
 
-## Cook
+## Food Merchant
 
 | Give | Get |
 | --- | --- |
@@ -114,7 +118,7 @@ Buys the trophy heads Beheading drops, and turns a stack of them into a spawner.
 
 
 
-## Cleric
+## High Priest
 
 | Give | Get |
 | --- | --- |
@@ -126,7 +130,7 @@ Buys the trophy heads Beheading drops, and turns a stack of them into a spawner.
 | --- | --- |
 | 10 Lost Souls + 3 Warrior Souls | +10 personal bank slots |
 
-## Wayfarer
+## Librarian Gary
 
 | Give | Get |
 | --- | --- |

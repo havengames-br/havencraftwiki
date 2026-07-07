@@ -26,10 +26,10 @@ The castle's vampires carry the materials for blood-forged gear.
 
 | | Item | What It Does |
 | --- | --- | --- |
-| <img src="/assets/items/weapons/sanguine_sword.png" alt="" width="32"> | **Sanguine Sword** | +9 attack damage. Passive **Bloodthirst**: heals you for 1% of damage dealt. |
-| | **Sanguine Chestplate** | +1 heart. Part of the Sanguine Set. |
-| | **Sanguine Platelegs** | +1 heart. Part of the Sanguine Set. |
-| | **Sanguine Boots** | +1 heart. Part of the Sanguine Set. |
+| | **Sanguine Sword** | +9 attack damage. Passive **Bloodthirst**: heals you for 1% of damage dealt. |
+| <img src="/assets/items/castle-nocturn/sanguine_chestplate.png" alt="" width="32"> | **Sanguine Chestplate** | +1 heart. Part of the Sanguine Set. |
+| <img src="/assets/items/castle-nocturn/sanguine_leggings.png" alt="" width="32"> | **Sanguine Platelegs** | +1 heart. Part of the Sanguine Set. |
+| <img src="/assets/items/castle-nocturn/sanguine_boots.png" alt="" width="32"> | **Sanguine Boots** | +1 heart. Part of the Sanguine Set. |
 
 **Sanguine Set Bonus** — wearing the set pays off:
 

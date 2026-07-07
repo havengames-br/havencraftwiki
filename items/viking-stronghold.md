@@ -29,8 +29,8 @@ Custom items from [Dungeon 1](/dungeons/viking-stronghold). The stronghold is th
 | --- | --- | --- | --- |
 | | **Mitre of the Faithful** | Helmet. When you take damage, the faithful mend 2 HP of your wounds. 4s cooldown. | 12% from the High Priestess of Odin |
 | <img src="/assets/items/potions/allfather_heart.png" alt="" width="32"> | **Heart of the Allfather** | Consumable: Strength II, Resistance II, and Absorption II for 30s. Single use. | 35% from the High Priestess of Odin |
-| | **Frozen Crown Shard** | *The blacksmith might know what to do with this.* | Guaranteed from [Asvald](/monsters/viking-stronghold/asvald) (25% chance of a second) |
-| | **Frozen Crown** | *The Dungeonmaster has been looking for this.* | Assembled from Frozen Crown Shards |
+| <img src="/assets/items/viking-stronghold/crown_shard.png" alt="" width="32"> | **Frozen Crown Shard** | *The blacksmith might know what to do with this.* | Guaranteed from [Asvald](/monsters/viking-stronghold/asvald) (25% chance of a second) |
+| <img src="/assets/items/viking-stronghold/frozen_crown.png" alt="" width="32"> | **Frozen Crown** | *The Dungeonmaster has been looking for this.* | Crafted from Frozen Crown Shards via the Blacksmith's blueprint — turn it in to the [Dungeonmaster](/traders#the-dungeonmaster) for Squire rank |
 
 ## Consumables & Materials
 

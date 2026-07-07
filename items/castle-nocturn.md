@@ -2,7 +2,7 @@
 title: Castle Nocturn Loot
 description: Every custom item from Dungeon 2 — Sanguine gear, Bloodfruit, Nocturn Tomes, and vampire relics.
 published: true
-date: 2026-07-07T02:36:26.302Z
+date: 2026-07-07T02:37:12.714Z
 tags: castle-nocturn, dungeon-2, items
 editor: markdown
 dateCreated: 2026-07-06T15:58:29.211Z
@@ -24,12 +24,12 @@ The castle's vampires carry the materials for blood-forged gear.
 
 ## Sanguine Gear
 
-| | Item | What It Does |
+| | Item | What It Does | Source |
 | --- | --- | --- |
-| | **Sanguine Sword** | +9 attack damage. Passive **Bloodthirst**: heals you for 1% of damage dealt. |
-| <img src="/assets/items/castle-nocturn/sanguine_chestplate.png" alt="" width="32"> | **Sanguine Chestplate** | +1 heart. Part of the Sanguine Set. |
-| <img src="/assets/items/castle-nocturn/sanguine_leggings.png" alt="" width="32"> | **Sanguine Platelegs** | +1 heart. Part of the Sanguine Set. |
-| <img src="/assets/items/castle-nocturn/sanguine_boots.png" alt="" width="32"> | **Sanguine Boots** | +1 heart. Part of the Sanguine Set. |
+| | **Sanguine Sword** | +9 attack damage. Passive **Bloodthirst**: heals you for 1% of damage dealt. | Crafted from Sanguine Materials
+| <img src="/assets/items/castle-nocturn/sanguine_chestplate.png" alt="" width="32"> | **Sanguine Chestplate** | +1 heart. Part of the Sanguine Set. | Crafted from Sanguine Materials
+| <img src="/assets/items/castle-nocturn/sanguine_leggings.png" alt="" width="32"> | **Sanguine Platelegs** | +1 heart. Part of the Sanguine Set. | Crafted from Sanguine Materials
+| <img src="/assets/items/castle-nocturn/sanguine_boots.png" alt="" width="32"> | **Sanguine Boots** | +1 heart. Part of the Sanguine Set. | Crafted from Sanguine Materials
 
 **Sanguine Set Bonus** — wearing the set pays off:
 

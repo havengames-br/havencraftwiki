@@ -2,7 +2,7 @@
 title: Traders & NPCs
 description: Every NPC trader in the HavenCraft hub — what they sell, and what they want in return.
 published: true
-date: 2026-07-06T19:10:24.263Z
+date: 2026-07-07T02:24:17.370Z
 tags: npcs, traders
 editor: markdown
 dateCreated: 2026-07-06T15:59:16.759Z
@@ -23,9 +23,9 @@ The rank-up NPC. He wants proof you've beaten each dungeon's final boss, and ran
 
 This is the payoff for the [New Player Path](/home): clear the Viking Stronghold, craft the Frozen Crown from your [Frozen Crown Shards](/items/viking-stronghold#boss-uniques), and turn it in here for Squire. Clear Castle Nocturn and bring back Vraelith's head for Knight.
 
-## Blacksmith
-
-The full armor progression in one stall, plus repair kits and the Frozen Crown's blueprint.
+## Master Blacksmith
+![2026-07-06_20.35.41.png](/2026-07-06_20.35.41.png)
+The full armor progression in one stall.
 
 | Give | Get |
 | --- | --- |
@@ -39,8 +39,15 @@ The full armor progression in one stall, plus repair kits and the Frozen Crown's
 | 1 Sanguine Soul + 10 Vampire Dust | Vampyric Repair Kit |
 | 1 Frozen Soul | **Frozen Crown Blueprint** — teaches the recipe to craft the [Frozen Crown](/items/viking-stronghold#boss-uniques) from Frozen Crown Shards |
 
-The Sanguine armor reforge consumes your netherite piece — bring the piece you want reforged, not just the souls.
 
+## Master Bowyer
+![2026-07-06_20.37.21.png](/2026-07-06_20.37.21.png)
+| Give | Get |
+| --- | --- |
+| 1 Lost Soul | Bow |
+| 2 Lost Souls | Crossbow |
+| 3 Soul Fragments | 16 Arrows |
+| 6 Soul Fragments | 32 Arrows |
 ## Locksmith
 
 Cuts keys. Matches the "ready to be cut" lore on the [Blank Key](/items/keys).
@@ -105,14 +112,7 @@ Buys the trophy heads Beheading drops, and turns a stack of them into a spawner.
 | 6 Soul Fragments | [Viking Ale](/items/viking-stronghold#consumables--materials) |
 | 10 Wolf Meat + 5 Lost Souls | **Wolf Steak Recipe** — teaches the Wolf Steak recipe |
 
-## Fletcher
 
-| Give | Get |
-| --- | --- |
-| 1 Lost Soul | Bow |
-| 2 Lost Souls | Crossbow |
-| 3 Soul Fragments | 16 Arrows |
-| 6 Soul Fragments | 32 Arrows |
 
 ## Cleric
 

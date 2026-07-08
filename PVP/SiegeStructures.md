@@ -2,7 +2,7 @@
 title: Siege Structures
 description: 
 published: true
-date: 2026-07-08T18:26:20.554Z
+date: 2026-07-08T18:36:05.998Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T18:17:51.899Z

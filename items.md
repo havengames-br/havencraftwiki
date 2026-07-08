@@ -12,6 +12,10 @@ dateCreated: 2026-07-06T15:58:27.712Z
 
 Every custom item on HavenCraft, grouped by category. Dungeon-specific loot lives on its dungeon's loot page.
 
+## Selling Items
+
+Most items in the game — ores, crops, mob drops, gear, blocks, and more — can be sold to the server for money with `/sell hand`, `/sell all`, or `/sell <item> <amount>`. See the full **[Sell Prices](/sell)** list for what everything is worth.
+
 ## Categories
 
 | Category | What's In It |

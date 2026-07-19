@@ -2,7 +2,7 @@
 title: Dungeons
 description: How HavenCraft dungeon progression works, plus the full dungeon list with release dates.
 published: true
-date: 2026-07-19T00:00:00.000Z
+date: 2026-07-19T21:14:26.153Z
 tags: dungeons, progression
 editor: markdown
 dateCreated: 2026-06-28T16:59:27.729Z
@@ -25,8 +25,8 @@ HavenCraft is a **dungeon progression server**. Dungeons are not side content �
 | # | Dungeon | Theme | Released | Status |
 | --- | --- | --- | --- | --- |
 | 1 | [Viking Stronghold](/dungeons/viking-stronghold) | Frozen halls of viking raiders and the Order of Odin | June 2026 | Active |
-| 2 | [Castle Nocturn](/dungeons/castle-nocturn) | A vampire castle under the Crimson Veil | July 2026 | Active — newest |
-
+| 2 | [Castle Nocturn](/dungeons/castle-nocturn) | A vampire castle under the Crimson Veil | July 2026 | Active
+| 2 | [Withering Spire](/dungeons/withering-spire) | A fortress of toxic undeath | July 2026 | Active — newest |
 New dungeons extend this list as they release. Release announcements happen in-game.
 
 ## Quick Comparison

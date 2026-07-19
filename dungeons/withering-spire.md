@@ -2,15 +2,15 @@
 title: Withering Spire
 description: Dungeon 3 of the HavenCraft progression path. Overview, monsters, bosses, and loot.
 published: true
-date: 2026-07-19T00:00:00.000Z
+date: 2026-07-19T21:14:44.129Z
 tags: dungeon-3, dungeons, withering-spire
 editor: markdown
-dateCreated: 2026-07-19T00:00:00.000Z
+dateCreated: 2026-07-19T20:24:01.286Z
 ---
 
 # Withering Spire
 
-> **Dungeon 3** · In Development · Diamond-to-Netherite difficulty
+> **Dungeon 3** ·· Diamond-to-Netherite difficulty
 
 The Withering Spire is HavenCraft's third dungeon — a rot-choked tower and its surrounding swamp, built for players who've cleared [Castle Nocturn](/dungeons/castle-nocturn) and want the next real check on their gear. Its own drop-table notes describe it as "medium-difficulty... for players in full diamond to full netherite," a clear step up from the castle's vampires.
 

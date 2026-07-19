@@ -2,7 +2,7 @@
 title: Guardian Golem
 description: Castle Nocturn's explosive trap golems — stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, castle-nocturn
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -16,7 +16,7 @@ An iron golem standing sentry in the castle's halls — but this one was built b
 
 | Stat | Value |
 | --- | --- |
-| Health | 120 |
+| Health | 100 |
 | Damage | 12 |
 | Threat | Trap / heavy melee |
 
@@ -37,6 +37,7 @@ An iron golem standing sentry in the castle's halls — but this one was built b
 | Emerald | 1–4 | 22% |
 | Nocturn Tome | 1 | 5% |
 | Beheading I book | 1 | 3% |
+| [Guardian's Keyblade](/items/castle-nocturn#relics) | 1 | 10% |
 | Netherite Ingot | 1 | 1% |
 
 ## Related

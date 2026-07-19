@@ -2,7 +2,7 @@
 title: Viking Sentinel
 description: The elite hallway guardian of the Viking Stronghold — stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, viking-stronghold
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -37,11 +37,17 @@ The best trash-tier loot in the dungeon:
 | Viking supplies (ale, lapis, arrows; rare extras) | — | Guaranteed |
 | Lapis Lazuli | 4–10 | 60% |
 | Iron Ingot | 2–5 | 50% |
-| Random starter weapon | 1 | 45% |
-| Random starter armor piece | 1 | 10% |
-| Iron sword or axe | 1 | 8% |
-| Frostbound Tome | 1 | 5% |
+| Frostbound Tome | 1 | 2.5% |
 | [Elixir of Odin](/items/viking-stronghold#consumables--materials) | 1 | 2% |
+| Runebound Tome (Emberstrike/Frostbite/Stormstrike I) | 1 | 3% |
+| Runebound Tome II | 1 | 2% |
+| Runebound Tome III | 1 | 1% |
+| Diamond | 1 | 3% |
+| Small Repair Kit | 1 | 15% |
+| Socketed Iron Gear | 1 | 10% |
+| Gem | 1 | 15% |
+
+He no longer carries spare starter weapons or armor, but his iron and lapis rates are unchanged, and he's now the best trash-mob source of socketed gear and gems in the dungeon.
 
 ## Related
 

@@ -2,7 +2,7 @@
 title: Viking Warrior
 description: The Viking Stronghold's standard melee trooper — stats, abilities, and drops.
 published: true
-date: 2026-07-07T01:34:35.350Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, viking-stronghold
 editor: markdown
 dateCreated: 2026-07-06T15:59:15.312Z
@@ -18,7 +18,7 @@ The backbone of the stronghold's garrison. A dual-axe raider in chainmail and le
 | Stat | Value |
 | --- | --- |
 | Health | 10 |
-| Damage | 2 |
+| Damage | 1 |
 | Armor | 6 |
 | Threat | Low |
 
@@ -34,11 +34,12 @@ The backbone of the stronghold's garrison. A dual-axe raider in chainmail and le
 | Experience | 30–60 | Always |
 | Soul Fragments | 2–5 | 35% |
 | Iron Ingot | 1–5 | 10% |
-| Random starter weapon (wooden/stone sword, stone axe, or bow) | 1 | 5% |
-| Viking supplies (Viking Ale, lapis, arrows; rarely Elixir of Odin or a Viking Key) | — | 5% |
-| Random starter armor piece | 1 | 2% |
-| Iron sword or axe | 1 | 1% |
-| Frostbound Tome | 1 | 1% |
+| Viking supplies (Viking Ale, lapis, arrows; rarely Elixir of Odin) | — | 5% |
+| Diamond | 1 | 2% |
+| Small Repair Kit | 1 | 8% |
+| Socketed Iron Gear | 1 | 2% |
+
+He no longer carries spare starter weapons or armor — as of the loot rebalance, gear only drops from dungeon chests and boss kills. Warriors now mostly pay out in iron, repair kits, and the odd socketed piece.
 
 ## Related
 

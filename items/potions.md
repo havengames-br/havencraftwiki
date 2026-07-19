@@ -2,7 +2,7 @@
 title: Potions & Elixirs
 description: Custom brews — Momentum, Diamond Sense, Holy Water, and the dungeon drinks.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: items, potions, consumables
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -36,7 +36,7 @@ Momentum brewing starts with [Momentum Powder](/items/viking-stronghold#consumab
 | <img src="/assets/items/potions/viking_ale.png" alt="" width="32"> | **Viking Ale** | Restores 5 hearts. | [Viking Stronghold](/items/viking-stronghold) |
 | <img src="/assets/items/potions/elixir_of_odin.png" alt="" width="32"> | **Elixir of Odin** | Strength I, Resistance I, Speed I for 3 minutes. | Viking Stronghold |
 | <img src="/assets/items/potions/allfather_heart.png" alt="" width="32"> | **Heart of the Allfather** | Strength II, Resistance II, Absorption II for 30s. Single use. | High Priestess of Odin |
-| <img src="/assets/items/castle-nocturn/blood_fruit.png" alt="" width="32"> | **Blood Fruit** | 5% lifesteal for 120s + 5% chance to cheat death while active. | [Castle Nocturn](/items/castle-nocturn#bloodfruit) |
+| <img src="/assets/items/castle-nocturn/blood_fruit.png" alt="" width="32"> | **Blood Fruit** | 5% lifesteal for 120s + 5% chance to cheat death (revives you at 4 hearts) while active. | [Castle Nocturn](/items/castle-nocturn#bloodfruit) |
 
 ## Related
 

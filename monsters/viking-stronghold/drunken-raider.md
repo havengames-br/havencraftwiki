@@ -2,7 +2,7 @@
 title: Drunken Raider
 description: The Viking Stronghold's stumbling heavy brawler — stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, viking-stronghold
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -32,15 +32,15 @@ Three times the health of a Viking Warrior and more than twice the punch — the
 | --- | --- | --- |
 | Experience | ~25 | Always |
 | Soul Fragments | 1–5 | Guaranteed (elite tier) |
-| Random starter weapon | 1 | 25% |
-| Iron sword or axe | 1 | 25% |
 | Gold Ingot | 1–2 | 12% |
 | [Viking Ale](/items/viking-stronghold#consumables--materials) | 1–2 | 10% |
-| Viking supplies (ale, lapis, arrows; rarely Elixir of Odin or a Viking Key) | — | 10% |
-| Random starter armor piece | 1 | 5% |
-| Frostbound Tome | 1 | 1.5% |
+| Viking supplies (ale, lapis, arrows; rarely Elixir of Odin) | — | 10% |
+| Small Repair Kit | 1 | 10% |
+| Diamond | 1 | 2.5% |
+| Socketed Iron Gear | 1 | 5% |
+| Gem | 1 | 3% |
 
-The best early source of iron weapons in the dungeon — half his kills pay out a blade or an axe.
+He no longer drops spare weapons or armor — that loot moved to chests and boss kills. His kills now lean toward gold, repair kits, and a shot at socketed gear or a gem.
 
 ## Related
 

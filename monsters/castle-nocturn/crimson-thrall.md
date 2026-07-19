@@ -2,7 +2,7 @@
 title: Crimson Thrall
 description: Castle Nocturn's blood-starved foot soldiers — stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, castle-nocturn
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -18,8 +18,8 @@ The castle's most common horror — mortals drained and remade as servants of th
 
 | Stat | Value |
 | --- | --- |
-| Health | 50 |
-| Damage | 5 |
+| Health | 25 |
+| Damage | 6 |
 | Threat | Low alone; dangerous in packs |
 
 ## Abilities
@@ -27,6 +27,7 @@ The castle's most common horror — mortals drained and remade as servants of th
 - **Lifesteal** — every hit on you heals the thrall.
 - **Blood Latch** — a small chance (8%) on hit to latch onto you and hold you in place.
 - **Frenzied Lunge** — below 40% health it starts lunging desperately at you.
+- Near [Vraelith](/monsters/castle-nocturn/vraelith)'s throne room, killing a thrall also wounds the [Crimson Blood Anchor](/monsters/castle-nocturn/ritual-anchor#crimson-blood-anchor) if one is active.
 
 ## Drops
 
@@ -40,6 +41,7 @@ The castle's most common horror — mortals drained and remade as servants of th
 | Nocturn Tome | 1 | 6% |
 | [Bloodfruit Seed](/items/castle-nocturn#bloodfruit) | 1 | 3% |
 | Beheading I book | 1 | 2% |
+| [Blood Tome](/items/castle-nocturn#blood-tomes) (random) | 1 | 10% |
 | Netherite Ingot | 1 | 0.3% |
 
 ## Related

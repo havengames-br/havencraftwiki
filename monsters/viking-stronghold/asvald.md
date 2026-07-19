@@ -2,7 +2,7 @@
 title: Asvald, The High Viking
 description: Final boss of the Viking Stronghold — phases, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, viking-stronghold, bosses
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -41,8 +41,15 @@ Lord of the frozen sanctum and the strongest fighter in the stronghold by far. A
 | **[Blank Key](/items/keys)** | 1 | Guaranteed |
 | [Warrior Soul](/items/souls) | 1 | Guaranteed |
 | [Frozen Soul](/items/souls) | 1 | 50% |
+| Diamond | 3–10 | Guaranteed |
+| **[Asvald's Axe](/items/viking-stronghold#boss-uniques)** | 1 | 5% |
+| Obsidian | 8 | 25% |
+| Enchanting Table | 1 | 10% |
+| Socketed Iron Gear | 1 | 50% |
 
 Asvald is the only source of Frozen Crown Shards — the blacksmith might know what to do with them, and the Dungeonmaster is said to want the finished [Frozen Crown](/items/viking-stronghold#boss-uniques).
+
+**Asvald's Axe** is his own signature weapon — a rare (5%) drop mirroring the fight itself: Aqua Slash (8 damage) on left-click, an Aqua Smash ice barrage (up to 21 damage, 15s cooldown) on right-click, a Water Wave (8 damage, launches foes, 5s cooldown) on shift-right-click, and a Frozen Sword Rain (25 damage, 15s cooldown) on shift-left-click.
 
 ## Related
 

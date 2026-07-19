@@ -2,7 +2,7 @@
 title: Monsters
 description: Index of every custom HavenCraft mob and boss, organized by dungeon.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, mobs, bosses
 editor: markdown
 dateCreated: 2026-06-22T00:00:00.000Z
@@ -22,7 +22,7 @@ Dungeon 1 — [dungeon guide](/dungeons/viking-stronghold).
 | --- | --- | --- |
 | [Viking Warrior](/monsters/viking-stronghold/viking-warrior) | 10 | Melee trooper with axe throws and wolf calls |
 | [Viking Shaman](/monsters/viking-stronghold/viking-shaman) | 15 | Support caster — heals and hexes |
-| [Frost Wolf](/monsters/viking-stronghold/frost-wolf) | 5–10 | Fast pack beast |
+| [Frost Wolf](/monsters/viking-stronghold/frost-wolf) | 5–8 | Fast pack beast |
 | [Order of Odin Cultist](/monsters/viking-stronghold/order-of-odin-cultist) | 20 | Disguised ambusher |
 | [Drunken Raider](/monsters/viking-stronghold/drunken-raider) | 30 | Heavy brawler |
 | [Raven Sorceress](/monsters/viking-stronghold/raven-sorceress) | 40 | Elite caster with raven familiars |
@@ -34,10 +34,10 @@ Dungeon 1 — [dungeon guide](/dungeons/viking-stronghold).
 
 | Boss | HP | Signature Drop |
 | --- | --- | --- |
-| [Raider Quartermaster](/monsters/viking-stronghold/raider-quartermaster) | 250 | Viking Warhammer |
+| [Raider Quartermaster](/monsters/viking-stronghold/raider-quartermaster) | 300 | Viking Warhammer |
 | [Cindius, Flame of Valhalla](/monsters/viking-stronghold/cindius) | 250 | Soulflame Bow |
-| [High Priestess of Odin](/monsters/viking-stronghold/high-priestess-of-odin) | 300 | Stormcaller's Scepter · Mitre of the Faithful · Heart of the Allfather |
-| [Asvald, The High Viking](/monsters/viking-stronghold/asvald) | 750 | Frozen Crown Shards |
+| [High Priestess of Odin](/monsters/viking-stronghold/high-priestess-of-odin) | 400 (Vessel) → 700 (Divine) | Stormcaller's Scepter · Mitre of the Faithful · Heart of the Allfather · Radiant Scepter |
+| [Asvald, The High Viking](/monsters/viking-stronghold/asvald) | 750 | Frozen Crown Shards · Asvald's Axe |
 
 ## Castle Nocturn
 
@@ -47,15 +47,15 @@ Dungeon 2 — [dungeon guide](/dungeons/castle-nocturn).
 
 | Monster | HP | Role |
 | --- | --- | --- |
-| [Blood Bat](/monsters/castle-nocturn/blood-bat) | 50 | Swarming biter |
-| [Crimson Thrall](/monsters/castle-nocturn/crimson-thrall) | 50 | Lifestealing husk |
-| [Cursed Skeleton](/monsters/castle-nocturn/cursed-skeleton) | 70 | Curses on hit, feigns death |
-| [Blood Acolyte](/monsters/castle-nocturn/blood-acolyte) | 40 | Ranged blood caster |
+| [Blood Bat](/monsters/castle-nocturn/blood-bat) | 25 | Swarming biter |
+| [Crimson Thrall](/monsters/castle-nocturn/crimson-thrall) | 25 | Lifestealing husk |
+| [Cursed Skeleton](/monsters/castle-nocturn/cursed-skeleton) | 50 | Curses on hit, feigns death |
+| [Blood Acolyte](/monsters/castle-nocturn/blood-acolyte) | 30 | Ranged blood caster |
 | [Vampire Laborer](/monsters/castle-nocturn/vampire-laborer) | 35 | Draining miner |
-| [Nightstalker](/monsters/castle-nocturn/nightstalker) | 50 | Vanishing assassin |
-| [Ashen Revenant](/monsters/castle-nocturn/ashen-revenant) | 60 | Gatekeeper bruiser |
+| [Nightstalker](/monsters/castle-nocturn/nightstalker) | 30 | Vanishing assassin |
+| [Ashen Revenant](/monsters/castle-nocturn/ashen-revenant) | 40 | Gatekeeper bruiser |
 | [Dark Rider](/monsters/castle-nocturn/dark-rider) | 120 | Mounted patrol lancer |
-| [Guardian Golem](/monsters/castle-nocturn/guardian-golem) | 120 | Explosive trap golem |
+| [Guardian Golem](/monsters/castle-nocturn/guardian-golem) | 100 | Explosive trap golem |
 | [Cursed Statue](/monsters/castle-nocturn/cursed-statue) | — | Unkillable, lethal, moves when unseen |
 | [Ritual Anchor](/monsters/castle-nocturn/ritual-anchor) | — | Ritual objective |
 
@@ -64,7 +64,7 @@ Dungeon 2 — [dungeon guide](/dungeons/castle-nocturn).
 | Boss | HP | Signature Drop |
 | --- | --- | --- |
 | [Oathbreaker](/monsters/castle-nocturn/oathbreaker) | 800 | The Final Oath |
-| [Vraelith, Lord of the Crimson Veil](/monsters/castle-nocturn/vraelith) | 1,250 | Sanguine Soul · Vampyric Repair Kits |
+| [Vraelith, Lord of the Crimson Veil](/monsters/castle-nocturn/vraelith) | 1,000 | Sanguine Soul · Vampyric Repair Kits · Vraelith's Scythe |
 
 ## Related
 

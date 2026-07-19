@@ -2,7 +2,7 @@
 title: Order of Odin Cultist
 description: The disguised ambushers of the Viking Stronghold.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, viking-stronghold
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -26,6 +26,7 @@ Strike him, and the disguise drops.
 
 - **Transforms when damaged.** Attacking a cultist triggers his true form — expect a real fight where a villager stood.
 - Until then he is completely passive, standing still and tracking you with his eyes.
+- Becomes a [Viking Warrior](/monsters/viking-stronghold/viking-warrior) most of the time (80%), or a [Viking Shaman](/monsters/viking-stronghold/viking-shaman) the rest (20%).
 
 ## Drops
 

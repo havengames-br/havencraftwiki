@@ -2,7 +2,7 @@
 title: Living Cinder
 description: The invisible flame spirit of the Viking Stronghold's library — stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, viking-stronghold
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -36,8 +36,13 @@ An arcane flame given hunger. You won't see a body — just a drifting knot of f
 | Lapis Lazuli | 3–8 | 40% |
 | Blaze Powder | 1–3 | 30% |
 | Gold Ingot | 1–3 | 20% |
-| Frostbound Tome | 1 | 3% |
-| [Viking Key](/items/keys) | 1 | 0.1% |
+| Frostbound Tome | 1 | 1.5% |
+| Runebound Tome (Emberstrike/Frostbite/Stormstrike I) | 1 | 3% |
+| Runebound Tome II | 1 | 2% |
+| Runebound Tome III | 1 | 1% |
+| Diamond | 1 | 2% |
+| Small Repair Kit | 1 | 10% |
+| Socketed Iron Gear | 1 | 10% |
 
 The primary farm for Momentum Powder — the base ingredient for [Potions of Momentum](/items/potions).
 

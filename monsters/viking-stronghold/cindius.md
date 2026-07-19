@@ -2,7 +2,7 @@
 title: Cindius, Flame of Valhalla
 description: Boss — the fire spirit of the Viking Stronghold. Stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, viking-stronghold, bosses
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -56,6 +56,9 @@ The great flame that the [Living Cinders](/monsters/viking-stronghold/living-cin
 | Extra Frostbound Tome | 60% |
 | Fire Charge ×4–8 | 50% |
 | **[Soulflame Bow](/items/viking-stronghold#relic-weapons)** | 10% |
+| Runebound Tome — Emberstrike | 8% |
+| Common Familiar Stone | 30% |
+| Greater Familiar Stone | 5% |
 
 ## Related
 

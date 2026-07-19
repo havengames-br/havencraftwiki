@@ -2,7 +2,7 @@
 title: Viking Shaman
 description: The Viking Stronghold's support caster — stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, viking-stronghold
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -33,11 +33,18 @@ A staff-wielding mystic who hangs back from the melee, keeping his warband alive
 | Experience | 30–60 | Always |
 | Soul Fragments | 2–5 | 35% |
 | Lapis Lazuli | 3–7 | 30% |
-| Viking supplies (Viking Ale, lapis, arrows; rarely Elixir of Odin or a Viking Key) | — | 10% |
-| Frostbound Tome | 1 | 1.2% |
+| Viking supplies (Viking Ale, lapis, arrows; rarely Elixir of Odin) | — | 10% |
+| Frostbound Tome | 1 | 6% |
 | **[Shaman Wolf Hex Staff](/items/viking-stronghold#relic-weapons)** | 1 | 1% |
-| Random starter armor piece | 1 | 1% |
-| Iron sword or axe | 1 | 1% |
+| Runebound Tome (Emberstrike/Frostbite/Stormstrike I) | 1 | 3% |
+| Runebound Tome II | 1 | 2% |
+| Runebound Tome III | 1 | 1% |
+| Diamond | 1 | 2% |
+| Small Repair Kit | 1 | 8% |
+| Gem | 1 | 2% |
+| Common Familiar Stone | 1 | 5% |
+
+No longer drops spare armor or iron weapons, but his Frostbound Tome odds went up (from 1.2% to 6%) and he now has a small shot at the rarer Runebound Tomes and a Familiar Stone.
 
 ## Related
 

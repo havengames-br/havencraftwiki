@@ -2,7 +2,7 @@
 title: Nightstalker
 description: Castle Nocturn's vanishing assassin — stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, castle-nocturn
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -18,8 +18,8 @@ You'll hear it before you see it — and you'll stop seeing it right when you th
 
 | Stat | Value |
 | --- | --- |
-| Health | 50 |
-| Damage | 12 |
+| Health | 30 |
+| Damage | 6 |
 | Threat | Medium-high — highest trash damage in the castle alongside the Revenant |
 
 ## Abilities

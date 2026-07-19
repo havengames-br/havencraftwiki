@@ -2,7 +2,7 @@
 title: Raven Sorceress
 description: The Viking Stronghold's elite caster — stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, viking-stronghold
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -34,14 +34,20 @@ A purple-robed witch with a raven-skull staff, holding the stronghold's darker c
 | --- | --- | --- |
 | Experience | 24–44 | Always |
 | Soul Fragments | 1–5 | Guaranteed (elite tier) |
-| Viking supplies (ale, lapis, arrows; rarely Elixir of Odin or a Viking Key) | — | 50% |
+| Viking supplies (ale, lapis, arrows; rarely Elixir of Odin) | — | 50% |
 | Lapis Lazuli | 4–9 | 50% |
 | Emerald | 1–2 | 10% |
-| Frostbound Tome | 1 | 8% |
+| Frostbound Tome | 1 | 3% |
 | **[Raven Skull Staff](/items/viking-stronghold#relic-weapons)** | 1 | 1% |
-| Random starter armor piece / weapon / iron weapon | 1 | 1% each |
+| Runebound Tome (Emberstrike/Frostbite/Stormstrike I) | 1 | 3% |
+| Runebound Tome II | 1 | 2% |
+| Runebound Tome III | 1 | 1% |
+| Diamond | 1 | 3% |
+| Small Repair Kit | 1 | 12% |
+| Gem | 1 | 6% |
+| Common Familiar Stone | 1 | 8% |
 
-The best regular-mob source of Frostbound Tomes and lapis in the dungeon.
+The best regular-mob source of lapis in the dungeon, though her Frostbound Tome odds dropped from 8% to 3%. She no longer drops generic starter gear at all — instead she's the best trash-mob shot at a Runebound Tome, a Gem, or a Familiar Stone.
 
 ## Related
 

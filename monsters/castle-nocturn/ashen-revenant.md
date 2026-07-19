@@ -2,7 +2,7 @@
 title: Ashen Revenant
 description: Castle Nocturn's gatekeeper bruiser — stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, castle-nocturn
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -18,14 +18,14 @@ An axe-bearing wall of ash and hate stationed at the castle's choke points. The 
 
 | Stat | Value |
 | --- | --- |
-| Health | 60 |
-| Damage | 12 |
+| Health | 40 |
+| Damage | 6 |
 | Threat | High |
 
 ## Abilities
 
 - **Shockwave Slam** — periodically slams the ground, damaging and scattering everyone around it.
-- **Grave Grasp** — roots the nearest player in place. Being held next to a 12-damage axe is how people die here.
+- **Grave Grasp** — roots the nearest player in place. Being held next to a 6-damage axe is how people die here.
 - **Enrage** — below 35% health it can fly into a rage. Finish it fast once it's low.
 - Heavily knockback-resistant.
 

@@ -2,7 +2,7 @@
 title: Castle Nocturn
 description: Dungeon 2 — the vampire castle. Full guide to its monsters, bosses, curses, and loot.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: dungeons, castle-nocturn, dungeon-2
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -37,9 +37,9 @@ The castle fights differently than the stronghold. Its horrors curse you, drain 
 | Boss | Health | Signature Loot |
 | --- | --- | --- |
 | [Oathbreaker](/monsters/castle-nocturn/oathbreaker) | 800 | The Final Oath |
-| [Vraelith, Lord of the Crimson Veil](/monsters/castle-nocturn/vraelith) | 1,250 | Sanguine Soul, Vampyric Repair Kits |
+| [Vraelith, Lord of the Crimson Veil](/monsters/castle-nocturn/vraelith) | 1,000 | Sanguine Soul, Vampyric Repair Kits, Vraelith's Scythe |
 
-Both boss kills pour out experience, 8–16 Soul Fragments, a guaranteed [Warrior Soul](/items/souls) with a 50% [Sanguine Soul](/items/souls) chance, a big diamond/emerald bundle, guaranteed Tier-II tomes, and a 50% [Blank Key](/items/keys) chance.
+Both boss kills pour out experience, 8–16 Soul Fragments, a guaranteed [Warrior Soul](/items/souls) with a 50% [Sanguine Soul](/items/souls) chance, a big diamond/emerald bundle, guaranteed Tier-II tomes, a guaranteed [Blood Tome](/items/castle-nocturn#blood-tomes), and a 50% [Blank Key](/items/keys) chance.
 
 ## Curses
 
@@ -52,8 +52,9 @@ Castle Nocturn's defining hazard. Cursed Skeletons (and other horrors) afflict y
 ## Mechanics & Points of Interest
 
 - **Blood rituals.** Ritual Anchors are immune to all damage. Blood Acolytes feed them — killing the summoned acolytes is what breaks the circle.
+- **Vraelith's anchor.** A tougher [Crimson Blood Anchor](/monsters/castle-nocturn/ritual-anchor#crimson-blood-anchor) sits in his throne room, fed by both acolytes and Crimson Thralls. Leave it standing and Vraelith spawns with a large bonus to his health — break it first.
 - **Patrols.** Dark Riders patrol on skeletal steeds and charge when they spot you. Unhorse the rider and the fight changes.
-- **Fake deaths.** Cursed Skeletons collapse and rise again. Budget for two fights.
+- **Fake deaths.** Cursed Skeletons collapse on "death" — about half the time they explode or get back up instead. Don't sheathe your sword early.
 - **Statues.** The Cursed Statues only move when no one is watching them. Keep eyes on them while your group moves, and never let one touch you — its strike deals 100 damage.
 - **Fire is wasted on the lord.** Vraelith is immune to fire and shrugs off 40% of projectile damage. Melee him.
 
@@ -62,10 +63,11 @@ Castle Nocturn's defining hazard. Cursed Skeletons (and other horrors) afflict y
 Full item details live on the [Castle Nocturn loot page](/items/castle-nocturn).
 
 - **Treasure:** diamonds and emeralds off trash mobs, with rare netherite ingots (up to 12% from bosses).
-- **Nocturn Tomes:** Tier-II enchant books (Protection II, Sharpness II, Power II, Efficiency II, Unbreaking II, Feather Falling II, Looting I), plus **Beheading I** books — Blood Acolytes are the best source at 20%.
+- **Nocturn Tomes:** Tier-II enchant books (Protection II, Sharpness II, Power II, Efficiency II, Unbreaking II, Feather Falling II, Looting I), plus **Beheading I** books — elite mobs (Ashen Revenant, Nightstalker, Dark Rider, Guardian Golem) are the best trash source at 3%.
+- **Blood Tomes:** rare chase tomes carrying real MythicEnchants (Crimson Nova, Ember Drinker, Cleansing, Life Drain) — guaranteed from both bosses and Dark Riders, lower odds from other mobs.
 - **Sanguine materials:** Vampire Dust from every vampire, Sanguine Ore and Ingots from Vampire Laborers — the crafting path to the **Sanguine armor set** and **Sanguine Sword**.
 - **Bloodfruit:** seeds drop from vampires; the grown fruit grants lifesteal and a chance to cheat death.
-- **Relics:** The Final Oath (Oathbreaker) and Vampyric Repair Kits (Vraelith).
+- **Relics:** The Final Oath (Oathbreaker), Vraelith's Scythe and Vampyric Repair Kits (Vraelith), and Guardian's Keyblade (Guardian Golem).
 
 ## Related
 

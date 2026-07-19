@@ -2,7 +2,7 @@
 title: Raider Quartermaster
 description: Boss — the Supply Hoarder of the Viking Stronghold. Stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, viking-stronghold, bosses
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -18,14 +18,14 @@ The raiders' loot doesn't vanish — it all flows to the Quartermaster. He guard
 
 | Stat | Value |
 | --- | --- |
-| Health | 250 |
+| Health | 300 |
 | Damage | 7 |
 | Armor | 6 |
 | Boss bar | Yellow — *Raider Quartermaster — Supply Hoarder* |
 
 ## Abilities
 
-- **Axe Combo** — about 1 in 5 of his attacks chains into a brutal axe combo.
+- **Axe Combo** — about 1 in 5 (22%) of his attacks chains into a brutal axe combo.
 - **Search Supplies** — periodically rummages through his stores mid-fight.
 - **Desperate Supplies** — as the fight drags on, he digs into the emergency stock. Finish him fast.
 - Knockback-resistant; picks his targets and holds aggro.
@@ -56,6 +56,9 @@ The raiders' loot doesn't vanish — it all flows to the Quartermaster. He guard
 | Diamonds ×2–4 | 75% |
 | [Blank Key](/items/keys) | 75% |
 | **[Viking Warhammer](/items/viking-stronghold#relic-weapons)** | 10% |
+| Runebound Tome (Emberstrike/Frostbite/Stormstrike I) | 5% |
+| Common Familiar Stone | 40% (rolled twice, so a second one can drop 20% of the time) |
+| Greater Familiar Stone | 5% |
 
 ## Related
 

@@ -2,7 +2,7 @@
 title: Traders & NPCs
 description: Every NPC trader in the HavenCraft hub — what they sell, and what they want in return.
 published: true
-date: 2026-07-07T02:26:33.535Z
+date: 2026-07-19T00:00:00.000Z
 tags: npcs, traders
 editor: markdown
 dateCreated: 2026-07-06T15:59:16.759Z
@@ -20,6 +20,7 @@ The rank-up NPC. He wants proof you've beaten each dungeon's final boss, and ran
 | --- | --- |
 | [Frozen Crown](/items/viking-stronghold#boss-uniques) | **Squire Rank** — unlocks additional dungeons |
 | [Vraelith, Lord of the Crimson Veil](/monsters/castle-nocturn/vraelith)'s head | **Knight Rank** — unlocks additional dungeons and claiming in the Towny world |
+| [Frozen Crown](/items/viking-stronghold#boss-uniques) | 5 Warrior Souls + 5 Frozen Keys + 5 Frozen Souls — an alternate cash-in if you'd rather bank a spare crown for loot than rank up with it |
 
 This is the payoff for the [New Player Path](/home): clear the Viking Stronghold, craft the Frozen Crown from your [Frozen Crown Shards](/items/viking-stronghold#boss-uniques), and turn it in here for Squire. Clear Castle Nocturn and bring back Vraelith's head for Knight.
 
@@ -36,7 +37,8 @@ The full armor progression in one stall.
 | 4 Sanguine Souls + netherite leggings | [Sanguine Platelegs](/items/castle-nocturn#sanguine-gear) |
 | 4 Sanguine Souls + netherite boots | [Sanguine Boots](/items/castle-nocturn#sanguine-gear) |
 | 1 Warrior Soul | Small Repair Kit |
-| 1 Sanguine Soul + 10 Vampire Dust | Vampyric Repair Kit |
+| 2 Lost Souls | **Small Repair Kit Recipe** — teaches the Small Repair Kit recipe (requires Repair skill 25) |
+| 1 Sanguine Soul + 1 Small Repair Kit | Vampyric Repair Kit |
 | 1 Frozen Soul | **Frozen Crown Blueprint** — teaches the recipe to craft the [Frozen Crown](/items/viking-stronghold#boss-uniques) from Frozen Crown Shards |
 
 
@@ -55,17 +57,22 @@ Cuts keys. Matches the "ready to be cut" lore on the [Blank Key](/items/keys).
 | Give | Get |
 | --- | --- |
 | 1 Blank Key + 1 Frozen Soul | [Frozen Key](/items/keys) |
+| 1 Blank Key + 1 Sanguine Soul | [Blood Key](/items/keys) |
 | 1 Viking Key + 1 Lost Soul | Blank Key |
 
 ## Master Miner
 
-Refines vampire materials into Sanguine metal.
+Refines vampire materials into Sanguine metal, and sells the netherite-tier crafting materials the Blacksmith doesn't.
 
 | Give | Get |
 | --- | --- |
+| 10 Lost Souls | Netherite Ingot |
+| 5 Warrior Souls | Netherite Ingot |
+| 5 Lost Souls | Netherite Upgrade Smithing Template |
+| 2 Lost Souls | Iron Pickaxe |
+| 3 Lost Souls | Diamond Pickaxe |
 | 1 Diamond Ore (or Deepslate Diamond Ore) + 15 Vampire Dust | [Sanguine Ore](/items/castle-nocturn#sanguine-materials) |
 | 1 Sanguine Soul + 10 Sanguine Ore | **Sanguine Ingot Recipe** — teaches the Sanguine Ingot smithing recipe |
-| Lost Souls | Iron or Diamond Pickaxe |
 
 ## Master Alchemist
 
@@ -82,6 +89,14 @@ Refines vampire materials into Sanguine metal.
 | Give | Get |
 | --- | --- |
 | 3 Frozen Souls | Beheading I enchanted book |
+| 1 Sanguine Soul | Beheading II enchanted book |
+| 1 Book + 2 Lost Souls | Runebound Tome — Emberstrike |
+| 1 Book + 2 Lost Souls | Runebound Tome — Stormstrike |
+| 1 Book + 2 Lost Souls | Runebound Tome — Frostbite |
+| 1 Book + 5 Jars of Holy Water | Runebound Tome — Cleansing |
+| 1 Book + 10 Vampire Dust | Runebound Tome — Crimson Nova |
+| 1 Book + 10 Vampire Dust | Runebound Tome — Ember Drinker |
+| 1 Book + 30 Vampire Dust | Runebound Tome — Life Drain |
 
 ## Head Hunter
 
@@ -96,6 +111,21 @@ Refines vampire materials into Sanguine metal.
 | Give | Get |
 | --- | --- |
 | 10 Viking Warrior heads + 5 Warrior Souls | Viking Warrior Spawner |
+
+Also runs spawner rank upgrades, paid in server cash vouchers instead of souls:
+
+| Give | Get |
+| --- | --- |
+| 2 $1,000 Vouchers | Spawner Upgrade Rank 2 |
+| 3 $1,000 Vouchers | Spawner Upgrade Rank 3 |
+| 4 $1,000 Vouchers | Spawner Upgrade Rank 4 |
+| 1 $5,000 Voucher | Spawner Upgrade Rank 5 |
+| 1 $5,000 Voucher + 1 $1,000 Voucher | Spawner Upgrade Rank 6 |
+| 1 $5,000 Voucher + 2 $1,000 Vouchers | Spawner Upgrade Rank 7 |
+| 1 $5,000 Voucher + 3 $1,000 Vouchers | Spawner Upgrade Rank 8 |
+| 1 $5,000 Voucher + 4 $1,000 Vouchers | Spawner Upgrade Rank 9 |
+| 1 $10,000 Voucher | Spawner Upgrade Rank 10 |
+
 ## Master Engineer
 
 | Give | Get |
@@ -103,7 +133,8 @@ Refines vampire materials into Sanguine metal.
 | Iron Boots + 1 Momentum Powder | Slayer's Sneakers |
 | 5 Warrior Souls + a Bow | Torchbow |
 | 1 Lost Soul + 16 Arrows | 16 Torchhead Arrows |
-| 5 Warrior Souls + a Bundle | Small Auto Salvager |
+| 2 Warrior Souls + a Bundle | Small Auto Salvager |
+| 2 Warrior Souls + a Bundle | Small Auto Seller |
 
 ## Food Merchant
 
@@ -114,9 +145,12 @@ Refines vampire materials into Sanguine metal.
 | 4 Soul Fragments | 32 Cooked Beef |
 | 5 Soul Fragments + 2 Wolf Meat | Wolf Steak |
 | 6 Soul Fragments | [Viking Ale](/items/viking-stronghold#consumables--materials) |
+
+## Master Chef
+
+| Give | Get |
+| --- | --- |
 | 10 Wolf Meat + 5 Lost Souls | **Wolf Steak Recipe** — teaches the Wolf Steak recipe |
-
-
 
 ## High Priest
 
@@ -134,7 +168,7 @@ Refines vampire materials into Sanguine metal.
 
 | Give | Get |
 | --- | --- |
-| 1 Warrior Soul | Tome of RTP [Lesser] — random teleport 1,000–5,000 blocks. Requires Squire rank. |
+| 1 Warrior Soul + a Book | Tome of RTP [Lesser] — random teleport 1,000–5,000 blocks. Requires Squire rank. |
 
 ## The End Merchant
 

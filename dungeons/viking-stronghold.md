@@ -2,7 +2,7 @@
 title: Viking Stronghold
 description: Dungeon 1 of the HavenCraft progression path. Overview, monsters, bosses, and loot.
 published: true
-date: 2026-07-06T19:48:09.948Z
+date: 2026-07-19T00:00:00.000Z
 tags: dungeon-1, dungeons, viking-stronghold
 editor: markdown
 dateCreated: 2026-06-28T16:59:29.799Z
@@ -14,7 +14,7 @@ dateCreated: 2026-06-28T16:59:29.799Z
 
 > **Dungeon 1** · Released June 2026 · Easy difficulty
 
-The Viking Stronghold is HavenCraft's first dungeon and the start of the progression path. It is built for fresh players who arrive with nothing: the frozen halls are packed with viking raiders whose drops focus on armor, weapons, bows, arrows, lapis, and low-level enchant tomes — everything you need to walk out stronger than you walked in.
+The Viking Stronghold is HavenCraft's first dungeon and the start of the progression path. It is built for fresh players who arrive with nothing: the frozen halls are packed with viking raiders, and its dungeon chests and four bosses carry the starter armor, weapons, bows, arrows, lapis, and low-level enchant tomes you need to walk out stronger than you walked in.
 
 Deeper inside, the Order of Odin holds its rituals, and four bosses stand between you and the stronghold's greatest treasures.
 
@@ -50,19 +50,20 @@ Deeper inside, the Order of Odin holds its rituals, and four bosses stand betwee
 
 | Boss | Health | Signature Loot |
 | --- | --- | --- |
-| [Raider Quartermaster](/monsters/viking-stronghold/raider-quartermaster) | 250 | Viking Warhammer |
+| [Raider Quartermaster](/monsters/viking-stronghold/raider-quartermaster) | 300 | Viking Warhammer |
 | [Cindius, Flame of Valhalla](/monsters/viking-stronghold/cindius) | 250 | Soulflame Bow |
-| [High Priestess of Odin](/monsters/viking-stronghold/high-priestess-of-odin) | 300 | Stormcaller's Scepter, Mitre of the Faithful, Heart of the Allfather |
-| [Asvald, The High Viking](/monsters/viking-stronghold/asvald) | 750 | Frozen Crown Shards, Blank Key |
+| [High Priestess of Odin](/monsters/viking-stronghold/high-priestess-of-odin) | 400 (Vessel) → 700 (Divine) | Stormcaller's Scepter, Mitre of the Faithful, Heart of the Allfather, Radiant Scepter, Holy Book |
+| [Asvald, The High Viking](/monsters/viking-stronghold/asvald) | 750 | Frozen Crown Shards, Asvald's Axe, Blank Key |
 
 ## Loot Overview
 
 Full item details live on the [Viking Stronghold loot page](/items/viking-stronghold).
 
-- **Starter gear:** leather/chain/iron armor, stone and iron weapons, bows and arrows drop constantly from trash mobs.
-- **Frostbound Tomes:** Tier-I enchant books (Protection, Sharpness, Power, Efficiency, Unbreaking, Feather Falling).
+- **Starter gear:** leather/chain/iron armor and starter weapons now come from dungeon chests and boss kills — regular trash mobs no longer carry spare gear.
+- **Frostbound Tomes:** Tier-I enchant books (Protection, Sharpness, Power, Efficiency, Unbreaking, Feather Falling), plus rarer **Runebound Tomes** (Emberstrike, Frostbite, Stormstrike) as chase loot from elites and bosses.
 - **Relic weapons:** Shaman Wolf Hex Staff, Raven Skull Staff, Frost Fang Dagger, Soulflame Bow, Stormcaller's Scepter, Viking Warhammer.
-- **Consumables:** Viking Ale, Elixir of Odin, Heart of the Allfather, Momentum Powder, Wolf Meat.
+- **Boss uniques:** Asvald's Axe, Mitre of the Faithful, Heart of the Allfather, Radiant Scepter, Holy Book, Divine Radiance armor.
+- **Consumables:** Viking Ale, Elixir of Odin, Divine Apple, Divine Nectar, Momentum Powder, Wolf Meat.
 - **Souls:** [Soul Fragments and souls](/items/souls),
 
 - **Progression Item:** Frozen Crown Shard used to craft the Squire upgrade item **Frozen Crown**.

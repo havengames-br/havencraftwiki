@@ -2,7 +2,7 @@
 title: Oathbreaker
 description: Boss — Castle Nocturn's colossal construct. Stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, castle-nocturn, bosses
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -20,7 +20,7 @@ The camera pans. The ground shakes. Something that was never meant to wake is wa
 | --- | --- |
 | Health | 800 |
 | Damage | Heavy, ability-driven |
-| Resistances | Takes only 25% of projectile damage — **fight it in melee** |
+| Resistances | Takes only 50% of projectile damage — **fight it in melee** |
 | Other | Immune to knockback; becomes damage-resistant while stunned |
 
 ## Abilities
@@ -43,6 +43,7 @@ The camera pans. The ground shakes. Something that was never meant to wake is wa
 | Diamonds | 8–14 | Guaranteed |
 | Emeralds | 8–14 | Guaranteed |
 | Nocturn Tome | 1 | Guaranteed (+50% chance of a 2nd) |
+| [Blood Tome](/items/castle-nocturn#blood-tomes) (random) | 1 | Guaranteed |
 | Beheading I book | 1 | 50% |
 | [Blank Key](/items/keys) | 1 | 50% |
 | Netherite Ingot | 1 | 12% |

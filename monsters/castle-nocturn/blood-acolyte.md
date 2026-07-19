@@ -2,7 +2,7 @@
 title: Blood Acolyte
 description: Castle Nocturn's ranged blood casters — stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, castle-nocturn
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -18,8 +18,8 @@ Robed hexers who serve the Veil from the backline. An acolyte left alone will bo
 
 | Stat | Value |
 | --- | --- |
-| Health | 40 (ritual-summoned: 25) |
-| Damage | 4 |
+| Health | 30 (ritual-summoned: 20) |
+| Damage | 1 (ritual-summoned: 4) |
 | Threat | Medium — priority target |
 
 ## Abilities
@@ -30,22 +30,21 @@ Robed hexers who serve the Veil from the backline. An acolyte left alone will bo
 - **Crimson Nova** — get within 4 blocks and it erupts in a blood nova. Burst it down or fight it at range.
 - **Retreat** — constantly repositions away from melee.
 
-During ritual events, killing the summoned acolytes is what damages the [Ritual Anchor](/monsters/castle-nocturn/ritual-anchor).
+During ritual events, killing the summoned acolytes is what damages the [Ritual Anchor](/monsters/castle-nocturn/ritual-anchor) (or the [Crimson Blood Anchor](/monsters/castle-nocturn/ritual-anchor#crimson-blood-anchor) in Vraelith's throne room).
 
 ## Drops
-
-The castle's best source of **Beheading I** books by far.
 
 | Drop | Amount | Chance |
 | --- | --- | --- |
 | Experience | 28–50 | Always |
 | [Vampire Dust](/items/castle-nocturn#sanguine-materials) | 1 | Guaranteed |
 | Soul Fragments | 2–5 | 35% |
-| **Beheading I book** | 1 | **20%** |
+| Beheading I book | 1 | 2% |
 | Diamond | 1–2 | 14% |
 | Emerald | 1–3 | 14% |
-| Nocturn Tome | 1 | 5% |
+| Nocturn Tome | 1 | 6% |
 | [Bloodfruit Seed](/items/castle-nocturn#bloodfruit) | 1 | 3% |
+| [Blood Tome](/items/castle-nocturn#blood-tomes) (random) | 1 | 10% |
 | Netherite Ingot | 1 | 0.3% |
 
 ## Related

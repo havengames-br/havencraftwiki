@@ -2,7 +2,7 @@
 title: Frost Wolf
 description: The Viking Stronghold's pack hunters — stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, viking-stronghold
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -16,7 +16,7 @@ Fast, white-furred pack hunters that run with the viking raiders. Individually f
 
 | Stat | Frost Wolf | Frost Wolf Howler |
 | --- | --- | --- |
-| Health | 5 | 10 |
+| Health | 5 | 8 |
 | Damage | 2 | 4 |
 | Speed | Fast | Fast |
 
@@ -33,8 +33,9 @@ Fast, white-furred pack hunters that run with the viking raiders. Individually f
 | Bone | 1–2 | 40% |
 | [Wolf Meat](/items/viking-stronghold#consumables--materials) | 1 | 25% |
 | Arrows | 1–3 | 20% |
+| Wolf Steak | 1 | 12% |
 | **[Frost Fang Dagger](/items/viking-stronghold#relic-weapons)** | 1 | 1% |
-| [Viking Key](/items/keys) | 1 | 0.1% |
+| Diamond | 1 | 1.5% |
 
 ## Related
 

@@ -2,7 +2,7 @@
 title: Castle Nocturn Loot
 description: Every custom item from Dungeon 2 — Sanguine gear, Bloodfruit, Nocturn Tomes, and vampire relics.
 published: true
-date: 2026-07-07T02:37:12.714Z
+date: 2026-07-19T00:00:00.000Z
 tags: castle-nocturn, dungeon-2, items
 editor: markdown
 dateCreated: 2026-07-06T15:58:29.211Z
@@ -35,7 +35,7 @@ The castle's vampires carry the materials for blood-forged gear.
 
 | Pieces Worn | Bonus |
 | --- | --- |
-| Full set | +2 extra hearts |
+| Full set | +3 Max Health |
 
 
 
@@ -51,12 +51,14 @@ The castle's vampires carry the materials for blood-forged gear.
 | | Item | What It Does | Source |
 | --- | --- | --- | --- |
 | <img src="/assets/items/weapons/final_oath.png" alt="" width="32"> | **The Final Oath** | Right-click **Broken Oath**: summons a spectral blade at the block you're looking at — 15 damage to mobs within 2 blocks. 30s cooldown. | 2% from the [Oathbreaker](/monsters/castle-nocturn/oathbreaker) |
+| | **Vraelith's Scythe** | +6 hearts. Five abilities: Bat Claws (right-click, 10 dmg slash, 3s cooldown), Bat Fury (left-click, 3-hit 8/12/8 combo, 1s cooldown), Bat Wings (shift+right-click, launch + resist, 80s cooldown), Bat Flame (double-crouch, homing 10 dmg, 10s cooldown), Bat Fireball (shift+left-click, 3 fireballs for 20 dmg, 20s cooldown). | 5% from [Vraelith](/monsters/castle-nocturn/vraelith) |
+| <img src="/assets/items/castle-nocturn/guardian_keyblade.png" alt="" width="32"> | **Guardian's Keyblade** | +6 damage enchant. Right-click **Guardian's Aegis**: holy shockwave — 6 damage to nearby enemies, knockback, and Resistance II for 5s. 30s cooldown. | 10% from the [Guardian Golem](/monsters/castle-nocturn/guardian-golem) |
 
 ## Repair Kits
 
 | | Item | What It Does | Source |
 | --- | --- | --- | --- |
-| | **Vampyric Repair Kit** | Drag onto damaged items to restore 50 durability. | 1–2 guaranteed from [Vraelith](/monsters/castle-nocturn/vraelith) |
+| | **Vampyric Repair Kit** | Drag onto damaged items to restore 50 durability. | 3–5 guaranteed from [Vraelith](/monsters/castle-nocturn/vraelith) |
 ## Nocturn Tomes
 
 Tier-II enchant books. ~5–6% from regular mobs, guaranteed from bosses (plus a 50% second roll).
@@ -71,7 +73,20 @@ Tier-II enchant books. ~5–6% from regular mobs, guaranteed from bosses (plus a
 | Nocturn Tome — Feather Falling II | Feather Falling II |
 | Nocturn Tome — Looting I | Looting I |
 
-**Beheading I books** also drop here — [Blood Acolytes](/monsters/castle-nocturn/blood-acolyte) are by far the best source at 20%, and bosses have a 50% chance.
+**Beheading I books** also drop here — elite mobs ([Ashen Revenant](/monsters/castle-nocturn/ashen-revenant), [Nightstalker](/monsters/castle-nocturn/nightstalker), [Dark Rider](/monsters/castle-nocturn/dark-rider), [Guardian Golem](/monsters/castle-nocturn/guardian-golem)) are the best trash source at 3%, and bosses have a 50% chance.
+
+## Blood Tomes
+
+Rare chase tomes a tier above the Nocturn Tomes — they carry real MythicEnchants instead of vanilla ones. Combine with a weapon on an anvil.
+
+| Tome | Enchant |
+| --- | --- |
+| Runebound Tome — Crimson Nova | Crimson Nova |
+| Runebound Tome — Ember Drinker | Ember Drinker |
+| Runebound Tome — Cleansing | Cleansing |
+| Runebound Tome — Life Drain | Life Drain |
+
+One drops at random from the pool. Guaranteed from both bosses and from [Dark Riders](/monsters/castle-nocturn/dark-rider); lower odds (3–10%) from [Blood Bats](/monsters/castle-nocturn/blood-bat), [Cursed Skeletons](/monsters/castle-nocturn/cursed-skeleton), [Vampire Laborers](/monsters/castle-nocturn/vampire-laborer), [Crimson Thralls](/monsters/castle-nocturn/crimson-thrall), and [Blood Acolytes](/monsters/castle-nocturn/blood-acolyte).
 
 ## Treasure
 

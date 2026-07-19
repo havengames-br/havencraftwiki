@@ -2,7 +2,7 @@
 title: Dungeons
 description: How HavenCraft dungeon progression works, plus the full dungeon list with release dates.
 published: true
-date: 2026-07-06T19:00:03.876Z
+date: 2026-07-19T00:00:00.000Z
 tags: dungeons, progression
 editor: markdown
 dateCreated: 2026-06-28T16:59:27.729Z
@@ -34,7 +34,7 @@ New dungeons extend this list as they release. Release announcements happen in-g
 | | Viking Stronghold | Castle Nocturn |
 | --- | --- | --- |
 | Gear expected going in | None — starter dungeon | Diamond armor |
-| Trash loot | Starter armor/weapons, lapis, arrows, Tier-I tomes | Diamonds, emeralds, rare netherite, Tier-II tomes |
+| Trash loot | Lapis, arrows, Tier-I + Runebound tomes, gems & socketed gear (starter armor/weapons now come from chests and bosses, not trash) | Diamonds, emeralds, rare netherite, Tier-II + Blood tomes |
 | Signature hazard | Frost orbs, hidden cultists | Curses, killer statues, blood rituals |
 | Bosses | 4 | 2 |
 | Boss soul drop | Warrior Soul + Frozen Soul | Warrior Soul + Sanguine Soul |

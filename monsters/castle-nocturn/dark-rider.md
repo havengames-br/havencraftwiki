@@ -2,7 +2,7 @@
 title: Dark Rider
 description: Castle Nocturn's mounted patrol — stats, abilities, and drops for rider and steed.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, castle-nocturn
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -39,6 +39,7 @@ A wither-black lancer on a skeletal horse, riding endless patrol routes through 
 | Emerald | 1–4 | 22% |
 | Nocturn Tome | 1 | 5% |
 | Beheading I book | 1 | 3% |
+| [Blood Tome](/items/castle-nocturn#blood-tomes) (random) | 1 | Guaranteed |
 | Netherite Ingot | 1 | 1% |
 
 **Dark Patrol Steed:**

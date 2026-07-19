@@ -2,7 +2,7 @@
 title: Vampire Laborer
 description: Castle Nocturn's mining vampires and the source of Sanguine Ore — stats, abilities, and drops.
 published: true
-date: 2026-07-05T00:00:00.000Z
+date: 2026-07-19T00:00:00.000Z
 tags: monsters, castle-nocturn
 editor: markdown
 dateCreated: 2026-07-05T00:00:00.000Z
@@ -17,8 +17,8 @@ The castle still runs on labor, and the labor never gets to rest. These pickaxe-
 | Stat | Value |
 | --- | --- |
 | Health | 35 |
-| Damage | 10 |
-| Threat | Medium — hits far harder than its health suggests |
+| Damage | 6 |
+| Threat | Medium |
 
 ## Abilities
 
@@ -40,6 +40,7 @@ The only source of the Sanguine crafting metals:
 | **[Sanguine Ore](/items/castle-nocturn#sanguine-materials)** | 1 | 5% |
 | [Bloodfruit Seed](/items/castle-nocturn#bloodfruit) | 1 | 3% |
 | Beheading I book | 1 | 2% |
+| [Blood Tome](/items/castle-nocturn#blood-tomes) (random) | 1 | 5% |
 | **[Sanguine Ingot](/items/castle-nocturn#sanguine-materials)** | 1 | 1% |
 | Netherite Ingot | 1 | 0.3% |
 

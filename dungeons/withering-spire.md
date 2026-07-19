@@ -2,7 +2,7 @@
 title: Withering Spire
 description: Dungeon 3 of the HavenCraft progression path. Overview, monsters, bosses, and loot.
 published: true
-date: 2026-07-19T21:14:44.129Z
+date: 2026-07-19T21:14:58.870Z
 tags: dungeon-3, dungeons, withering-spire
 editor: markdown
 dateCreated: 2026-07-19T20:24:01.286Z
@@ -22,7 +22,7 @@ Everything here leans on poison: withering bogs and gas vents soak the floor, a 
 
 | Area | Details |
 | --- | --- |
-| Requirements | None confirmed — entry is currently gated by a permission flag rather than a prior-dungeon requirement |
+| Requirements | Squire Rank |
 | Difficulty | Medium-to-hard (full diamond to full netherite gear, per the dungeon's own data) |
 | Theme | Toxic rot / plague swamp |
 | Party size | 1–4 players |
